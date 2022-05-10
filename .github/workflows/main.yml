@@ -1,0 +1,25 @@
+name: Get COVID API data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "* * * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+      - name: Fetch latest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/colorado_covid19_state_statistics_cumulative/FeatureServer/0/query?where=description%20%3D%20%277-DAY%20AVERAGE%20OF%20COVID-19%20CASES%20IN%20COLORADO%20BY%20DATE%20REPORTED%20TO%20THE%20STATE%27&outFields=date,value&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > daily_cases.json
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
