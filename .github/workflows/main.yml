@@ -18,6 +18,24 @@ jobs:
       - name: Fetch lastest data
         run: |-
           curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/CDPHE_COVID19_Hospital_Data/FeatureServer/0/query?where=description%20%3D%20%27CURRENTLY%20HOSPITALIZED%27%20AND%20metric%20%3D%20%27CONFIRMED%20COVID-19%27&outFields=date,value&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > weekly_hospitalizations.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/colorado_covid19_state_statistics_cumulative/FeatureServer/0/query?where=description%20%3D%20%277-DAY%20AVERAGE%20OF%20DEATHS%20AMONG%20COVID-19%20CASES%20IN%20COLORADO%20BY%20DATE%20OF%20DEATH%27&outFields=date,value&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > daily_deaths.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/CDPHE_COVID19_Vaccine_Breakthrough_Metrics/FeatureServer/0/query?where=%20(category%20%3D%20%27AGE-ADJUSTED%20COVID-19%20CASES%20PER%20100%2C000%20BY%20SPECIMEN%20COLLECTION%20DATE%20%26%20VACCINATION%20STATUS%27)%20%20AND%20description%20%3D%20%27ALL%20VACCINE%20TYPES%27%20AND%20metric%20%3D%20%27VACCINATED%20RATE%20PER%20100K%20OF%20COVID-19%20CASES%27%20OR%20metric%20%3D%20%27UNVACCINATED%20RATE%20PER%20100K%20OF%20COVID-19%20CASES%27&outFields=metric,value,date,category,description&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > weekly_cases_vax_status.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/CDPHE_COVID19_Vaccine_Breakthrough_Metrics/FeatureServer/0/query?where=%20(category%20%3D%20%27AGE-ADJUSTED%20COVID-19%20HOSPITALIZATIONS%20PER%20100%27%20OR%20category%20%3D%20%27000%20BY%20SPECIMEN%20COLLECTION%20DATE%20%26%20VACCINATION%20STATUS%27)%20%20AND%20description%20%3D%20%27ALL%20VACCINE%20TYPES%27%20OR%20metric%20%3D%20%27VACCINATED%20RATE%20PER%20100K%20OF%20COVID-19%20HOSPITALIZATIONS%27%20OR%20metric%20%3D%20%27UNVACCINATED%20RATE%20PER%20100K%20OF%20COVID-19%20HOSPITALIZATIONS%27&outFields=metric,value,date,description,category&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > weekly_hospitalizations_vax_status.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/CDPHE_COVID19_Vaccine_Breakthrough_Metrics/FeatureServer/0/query?where=category%20%3D%20%27AGE-ADJUSTED%20COVID-19%20DEATHS%20PER%201%20MILLION%20BY%20MONTH%20OF%20DEATH%20%26%20VACCINATION%20STATUS%27%20AND%20description%20%3D%20%27ALL%20VACCINE%20TYPES%27%20OR%20metric%20%3D%20%27VACCINATED%20RATE%20PER%201%20MILLION%20OF%20COVID-19%20DEATHS%27%20OR%20metric%20%3D%20%27UNVACCINATED%20RATE%20PER%201%20MILLION%20OF%20COVID-19%20DEATHS%27&outFields=metric,value,date,description,category&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > monthly_deaths_vax_status.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/colorado_covid19_state_statistics_cumulative/FeatureServer/0/query?where=section%20%3D%20%27STATE%20DATA%27&outFields=*&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > statewide_cumulative_totals.json
+      - name: Fetch lastest data
+        run: |-
+          curl -k -X GET "https://services3.arcgis.com/66aUo8zsujfVXRIT/arcgis/rest/services/colorado_cdphe_covid19_county_id_rate/FeatureServer/0/query?where=1%3D1&outFields=LABEL,County_Population,County_Rate_Per_100_000,County_Deaths,County_Pos_Cases&returnGeometry=false&outSR=4326&f=json" -H "accept: application/json" | jq '.'  > county_cumulative_totals.json
       - name: Commit and push if changed
         run: |-
           git config user.name "Automated"
