@@ -54,6 +54,24 @@
   "features": [
     {
       "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.7,
+        "date": "08/08/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 16.2,
+        "date": "05/16/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 10.4,
         "date": "01/03/2021",
@@ -68,24 +86,6 @@
         "date": "01/03/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9,
-        "date": "01/03/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "01/03/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -109,24 +109,6 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8,
-        "date": "01/10/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "01/10/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 8.1,
         "date": "01/17/2021",
         "description": "All vaccine types",
@@ -140,249 +122,6 @@
         "date": "01/17/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.4,
-        "date": "03/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.9,
-        "date": "03/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.3,
-        "date": "03/14/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.3,
-        "date": "03/14/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.1,
-        "date": "03/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.4,
-        "date": "03/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 6.3,
-        "date": "03/21/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.4,
-        "date": "03/21/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.6,
-        "date": "03/21/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.2,
-        "date": "02/07/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "02/07/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.5,
-        "date": "02/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "02/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.6,
-        "date": "02/14/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.3,
-        "date": "02/14/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.8,
-        "date": "02/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.5,
-        "date": "02/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5,
-        "date": "02/21/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1,
-        "date": "03/21/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7.2,
-        "date": "03/28/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "03/28/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.3,
-        "date": "03/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.2,
-        "date": "03/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.1,
-        "date": "04/04/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.9,
-        "date": "04/04/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7,
-        "date": "01/17/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "01/17/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -406,24 +145,6 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.9,
-        "date": "01/24/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0,
-        "date": "01/24/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 5.7,
         "date": "01/31/2021",
         "description": "All vaccine types",
@@ -442,26 +163,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5,
-        "date": "01/31/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.4,
-        "date": "01/31/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.6,
-        "date": "04/18/2021",
+        "value": 5.2,
+        "date": "02/07/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -469,8 +172,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.5,
-        "date": "04/18/2021",
+        "value": 0,
+        "date": "02/07/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -478,26 +181,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.8,
-        "date": "04/18/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1,
-        "date": "04/18/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.3,
-        "date": "04/25/2021",
+        "value": 5.6,
+        "date": "02/14/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -505,8 +190,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.8,
-        "date": "04/25/2021",
+        "value": 0.6,
+        "date": "05/16/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -514,35 +199,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 6.9,
-        "date": "04/04/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.3,
-        "date": "04/04/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 12.9,
-        "date": "04/11/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.8,
-        "date": "04/11/2021",
+        "value": 20.7,
+        "date": "08/15/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -550,46 +208,82 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.6,
-        "date": "04/11/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.1,
-        "date": "04/11/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.5,
-        "date": "02/21/2021",
+        "value": 13.8,
+        "date": "05/23/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.2,
-        "date": "02/21/2021",
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.5,
+        "date": "08/15/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.3,
+        "date": "02/14/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.7,
+        "date": "05/23/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 26.2,
+        "date": "08/22/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5,
         "date": "02/21/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.6,
+        "date": "08/22/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 14.3,
+        "date": "05/30/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.5,
+        "date": "02/21/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -613,24 +307,6 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.7,
-        "date": "02/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.3,
-        "date": "02/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 4.3,
         "date": "03/07/2021",
         "description": "All vaccine types",
@@ -649,107 +325,26 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.1,
-        "date": "06/20/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "06/20/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.3,
-        "date": "06/27/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.4,
-        "date": "06/27/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.9,
-        "date": "06/27/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "06/27/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "05/16/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.9,
-        "date": "06/06/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.4,
-        "date": "06/06/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 5.3,
-        "date": "06/06/2021",
+        "date": "03/14/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.5,
-        "date": "06/06/2021",
+        "value": 0.3,
+        "date": "03/14/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9,
-        "date": "06/13/2021",
+        "value": 6.3,
+        "date": "03/21/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -758,7 +353,7 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.4,
-        "date": "06/13/2021",
+        "date": "03/21/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -766,53 +361,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.5,
-        "date": "04/25/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.2,
-        "date": "04/25/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7.3,
-        "date": "05/23/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.1,
-        "date": "05/16/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.8,
-        "date": "05/16/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 13.8,
-        "date": "05/23/2021",
+        "value": 7.2,
+        "date": "03/28/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -821,7 +371,7 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.7,
-        "date": "05/23/2021",
+        "date": "03/28/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -829,26 +379,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.6,
-        "date": "05/02/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1,
-        "date": "05/23/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.6,
-        "date": "07/04/2021",
+        "value": 10.1,
+        "date": "04/04/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -856,8 +388,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "07/04/2021",
+        "value": 0.9,
+        "date": "04/04/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -865,35 +397,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.3,
-        "date": "07/04/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "07/04/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8,
-        "date": "07/11/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.4,
-        "date": "07/11/2021",
+        "value": 12.9,
+        "date": "04/11/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -902,16 +407,16 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.8,
-        "date": "05/02/2021",
+        "date": "04/11/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.3,
-        "date": "05/30/2021",
+        "value": 14.5,
+        "date": "04/18/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -920,7 +425,7 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.5,
-        "date": "05/30/2021",
+        "date": "04/18/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -928,19 +433,19 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7.1,
-        "date": "05/30/2021",
+        "value": 16.3,
+        "date": "04/25/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "05/30/2021",
+        "value": 0.9,
+        "date": "04/25/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -982,19 +487,91 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.7,
-        "date": "06/13/2021",
+        "value": 31.2,
+        "date": "08/29/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
+        "value": 0.5,
+        "date": "05/30/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2,
+        "date": "08/29/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9.9,
+        "date": "06/06/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 27.9,
+        "date": "09/05/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.4,
+        "date": "06/06/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.9,
         "date": "06/13/2021",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.6,
+        "date": "09/05/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.4,
+        "date": "06/13/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 30.6,
+        "date": "09/12/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -1009,136 +586,19 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.7,
+        "date": "09/12/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.4,
         "date": "06/20/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.9,
-        "date": "05/09/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1,
-        "date": "05/09/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.2,
-        "date": "05/16/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.1,
-        "date": "07/18/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.9,
-        "date": "07/18/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 12.4,
-        "date": "07/25/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.9,
-        "date": "07/25/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7,
-        "date": "07/25/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.1,
-        "date": "07/25/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.5,
-        "date": "07/11/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.5,
-        "date": "07/11/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.5,
-        "date": "07/18/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "07/18/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2,
-        "date": "09/12/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -1162,25 +622,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.9,
-        "date": "09/19/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.4,
-        "date": "09/19/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 30.1,
+        "value": 30.4,
         "date": "09/26/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
@@ -1197,332 +639,8 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.9,
-        "date": "08/15/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.9,
-        "date": "09/05/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3,
-        "date": "09/05/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 30.7,
-        "date": "09/12/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.7,
-        "date": "09/12/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.1,
-        "date": "09/12/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2,
-        "date": "08/29/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.6,
-        "date": "08/01/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.5,
-        "date": "08/01/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 26,
-        "date": "08/22/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.6,
-        "date": "08/22/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.3,
-        "date": "08/22/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.1,
-        "date": "08/22/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 31.3,
-        "date": "08/29/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.9,
-        "date": "08/08/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2,
-        "date": "08/08/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 20.7,
-        "date": "08/15/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.5,
-        "date": "08/15/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 11.4,
-        "date": "08/15/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7.9,
-        "date": "08/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.7,
-        "date": "08/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 17.3,
-        "date": "08/08/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.7,
-        "date": "08/08/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 17,
-        "date": "08/29/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.4,
-        "date": "08/29/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 27.8,
-        "date": "09/05/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.6,
-        "date": "09/05/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 25.4,
-        "date": "10/31/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 24.5,
-        "date": "11/21/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.9,
-        "date": "11/21/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 45.9,
-        "date": "11/28/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4,
-        "date": "11/28/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 23.4,
-        "date": "11/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.8,
-        "date": "10/31/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 15.5,
-        "date": "09/26/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.1,
-        "date": "09/26/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 35.7,
+        "value": 35.5,
         "date": "10/03/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
@@ -1539,18 +657,9 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.4,
-        "date": "11/28/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 53.7,
-        "date": "11/14/2021",
+        "value": 36.1,
+        "date": "10/10/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -1558,19 +667,10 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.8,
-        "date": "11/14/2021",
+        "value": 3.5,
+        "date": "10/10/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 18,
-        "date": "10/03/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -1593,42 +693,6 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.4,
-        "date": "10/03/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 21.8,
-        "date": "10/24/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 20.3,
-        "date": "10/17/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5,
-        "date": "10/17/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 43.7,
         "date": "10/24/2021",
@@ -1647,15 +711,6 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.3,
-        "date": "10/24/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 50.7,
         "date": "10/31/2021",
@@ -1668,6 +723,123 @@
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 4.3,
         "date": "10/31/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9.3,
+        "date": "06/27/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.4,
+        "date": "06/27/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 10.7,
+        "date": "07/04/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "07/04/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.1,
+        "date": "07/11/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.4,
+        "date": "07/11/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9.6,
+        "date": "07/18/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "07/18/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 12.4,
+        "date": "07/25/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.9,
+        "date": "07/25/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 14.7,
+        "date": "08/01/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.5,
+        "date": "08/01/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 17.5,
+        "date": "08/08/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -1692,182 +864,11 @@
     },
     {
       "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 36.2,
-        "date": "10/10/2021",
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.4,
+        "date": "02/06/2022",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 43.3,
-        "date": "12/05/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 26.7,
-        "date": "11/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.2,
-        "date": "11/14/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 49.7,
-        "date": "11/21/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.4,
-        "date": "11/21/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.1,
-        "date": "12/05/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.5,
-        "date": "10/10/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 18.1,
-        "date": "10/10/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4,
-        "date": "10/10/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 21.9,
-        "date": "12/05/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.5,
-        "date": "12/05/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 27.6,
-        "date": "11/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.9,
-        "date": "11/07/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 30.8,
-        "date": "01/02/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 11.7,
-        "date": "01/02/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 62.3,
-        "date": "01/09/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 11.8,
-        "date": "01/09/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 34.4,
-        "date": "01/09/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 12.3,
-        "date": "01/09/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -1875,6 +876,24 @@
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 15.6,
         "date": "02/13/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 53.6,
+        "date": "11/14/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.8,
+        "date": "11/14/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -1891,25 +910,277 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.2,
-        "date": "12/19/2021",
+        "value": 9.7,
+        "date": "02/20/2022",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.5,
-        "date": "12/19/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 55.4,
+        "value": 49.8,
+        "date": "11/21/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.4,
+        "date": "02/20/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.4,
+        "date": "11/21/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 6.4,
+        "date": "02/27/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 46,
+        "date": "11/28/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.8,
+        "date": "02/27/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4,
+        "date": "11/28/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 43.3,
+        "date": "12/05/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.5,
+        "date": "03/06/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.2,
+        "date": "03/06/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.1,
+        "date": "12/05/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.7,
+        "date": "03/13/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 34.1,
+        "date": "12/12/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "03/13/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.6,
+        "date": "12/12/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2,
+        "date": "03/20/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 30.2,
+        "date": "12/19/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "03/20/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.9,
+        "date": "03/27/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "03/27/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.7,
+        "date": "04/03/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "04/03/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.6,
+        "date": "04/10/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "04/10/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.1,
+        "date": "04/17/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.2,
+        "date": "04/17/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.9,
+        "date": "04/24/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.1,
+        "date": "04/24/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.2,
+        "date": "12/19/2021",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 55.3,
         "date": "01/02/2022",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
@@ -1920,6 +1191,24 @@
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 11,
         "date": "01/02/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 62.3,
+        "date": "01/09/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 11.8,
+        "date": "01/09/2022",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -1945,97 +1234,25 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 34.1,
-        "date": "12/12/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.5,
-        "date": "02/20/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 27.5,
+        "value": 49.7,
         "date": "01/23/2022",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.6,
-        "date": "12/12/2021",
-        "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.4,
-        "date": "02/20/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.9,
+        "value": 9.6,
         "date": "01/23/2022",
         "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 18.8,
-        "date": "02/06/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.4,
-        "date": "02/06/2022",
-        "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.6,
-        "date": "02/06/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.6,
-        "date": "02/06/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 32.7,
+        "value": 32.5,
         "date": "01/30/2022",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
@@ -2053,8 +1270,17 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 17.6,
-        "date": "01/30/2022",
+        "value": 18.8,
+        "date": "02/06/2022",
+        "description": "All vaccine types",
+        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5,
+        "date": "01/31/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2062,8 +1288,737 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 7.4,
-        "date": "01/30/2022",
+        "value": 1.4,
+        "date": "01/31/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.5,
+        "date": "02/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0,
+        "date": "02/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.8,
+        "date": "02/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.5,
+        "date": "02/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.2,
+        "date": "02/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "02/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.7,
+        "date": "02/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.3,
+        "date": "02/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.4,
+        "date": "03/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.9,
+        "date": "03/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.1,
+        "date": "03/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.4,
+        "date": "03/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.6,
+        "date": "03/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1,
+        "date": "03/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.3,
+        "date": "03/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9,
+        "date": "01/03/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0,
+        "date": "01/03/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 8,
+        "date": "01/10/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0,
+        "date": "01/10/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 7,
+        "date": "01/17/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0,
+        "date": "01/17/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.9,
+        "date": "01/24/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0,
+        "date": "01/24/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.9,
+        "date": "02/13/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.4,
+        "date": "02/20/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.4,
+        "date": "02/20/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.7,
+        "date": "08/01/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.5,
+        "date": "02/27/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.9,
+        "date": "02/27/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.8,
+        "date": "03/06/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.2,
+        "date": "03/06/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.8,
+        "date": "03/13/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "03/13/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.1,
+        "date": "03/20/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "03/20/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.2,
+        "date": "03/27/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "03/27/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.3,
+        "date": "04/03/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "04/03/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.6,
+        "date": "04/10/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.7,
+        "date": "04/10/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.3,
+        "date": "04/17/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "05/30/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.4,
+        "date": "10/03/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.2,
+        "date": "03/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.5,
+        "date": "12/05/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.3,
+        "date": "04/17/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9,
+        "date": "08/08/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.3,
+        "date": "06/06/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 6.9,
+        "date": "04/04/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 18.1,
+        "date": "10/10/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2,
+        "date": "08/08/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 11.4,
+        "date": "08/15/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.9,
+        "date": "08/15/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 14.4,
+        "date": "08/22/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.1,
+        "date": "08/22/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 17,
+        "date": "08/29/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.4,
+        "date": "08/29/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 15,
+        "date": "09/05/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3,
+        "date": "09/05/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 16,
+        "date": "09/12/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2,
+        "date": "09/12/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 14.9,
+        "date": "09/19/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.4,
+        "date": "09/19/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 15.6,
+        "date": "09/26/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.1,
+        "date": "09/26/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 18,
+        "date": "10/03/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.3,
+        "date": "04/24/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 16.7,
+        "date": "12/12/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.5,
+        "date": "06/06/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.3,
+        "date": "04/04/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4,
+        "date": "10/10/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1.1,
+        "date": "04/24/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.8,
+        "date": "12/12/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.7,
+        "date": "06/13/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 16.2,
+        "date": "12/19/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.5,
+        "date": "12/19/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 30.7,
+        "date": "01/02/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 11.7,
+        "date": "01/02/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 34.4,
+        "date": "01/09/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 12.3,
+        "date": "01/09/2022",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2089,28 +2044,55 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 49.7,
+        "value": 27.5,
         "date": "01/23/2022",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.6,
+        "value": 9.9,
         "date": "01/23/2022",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 6.2,
-        "date": "02/27/2022",
+        "value": 17.5,
+        "date": "01/30/2022",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 7.4,
+        "date": "01/30/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 10.6,
+        "date": "02/06/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.6,
+        "date": "02/06/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
@@ -2124,162 +2106,9 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.8,
-        "date": "02/27/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.7,
-        "date": "12/12/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.8,
-        "date": "12/12/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 30.3,
-        "date": "12/19/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.2,
-        "date": "12/19/2021",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.5,
-        "date": "02/27/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.9,
-        "date": "02/27/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.9,
-        "date": "02/13/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 9.8,
-        "date": "02/20/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.4,
-        "date": "02/20/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "03/20/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.1,
-        "date": "04/17/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.2,
-        "date": "04/17/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.3,
-        "date": "04/17/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.3,
-        "date": "04/17/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2,
-        "date": "04/24/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.1,
-        "date": "04/24/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.8,
-        "date": "03/13/2022",
+        "value": 8.6,
+        "date": "04/11/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2288,43 +2117,7 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.6,
-        "date": "03/13/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2,
-        "date": "03/20/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "03/20/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.1,
-        "date": "03/20/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.4,
-        "date": "04/24/2022",
+        "date": "06/13/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2333,7 +2126,7 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 1.1,
-        "date": "04/24/2022",
+        "date": "04/11/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2341,8 +2134,53 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 20.3,
+        "date": "10/17/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.1,
+        "date": "06/20/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.7,
+        "date": "04/18/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1,
+        "date": "04/18/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 10.4,
+        "date": "04/25/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 1.3,
-        "date": "04/03/2022",
+        "date": "04/25/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2350,17 +2188,125 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.8,
-        "date": "03/27/2022",
+        "value": 10.6,
+        "date": "05/02/2021",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.8,
+        "date": "05/02/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.9,
+        "date": "05/09/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1,
+        "date": "05/09/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 9.1,
+        "date": "05/16/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.8,
+        "date": "05/16/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 7.3,
+        "date": "05/23/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 1,
+        "date": "05/23/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 7.1,
+        "date": "05/30/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5,
+        "date": "10/17/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.6,
-        "date": "04/03/2022",
+        "date": "06/20/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.9,
+        "date": "06/27/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.6,
+        "date": "06/27/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.4,
+        "date": "07/04/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2369,79 +2315,61 @@
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 0.7,
-        "date": "03/27/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.1,
-        "date": "03/27/2022",
+        "date": "07/04/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "03/27/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.7,
-        "date": "04/03/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "04/03/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 4.5,
-        "date": "03/06/2022",
+        "date": "07/11/2021",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.5,
+        "date": "07/11/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.1,
+        "date": "07/18/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 0.9,
+        "date": "07/18/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 7,
+        "date": "07/25/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
         "value": 1.1,
-        "date": "03/06/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.8,
-        "date": "03/06/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.2,
-        "date": "03/06/2022",
+        "date": "07/25/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2449,44 +2377,17 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.7,
-        "date": "03/13/2022",
+        "value": 8,
+        "date": "08/01/2021",
         "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.6,
-        "date": "03/13/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
     },
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.6,
-        "date": "04/10/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "04/10/2022",
-        "description": "All vaccine types",
-        "category": "Age-Adjusted COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 1.6,
-        "date": "04/10/2022",
+        "value": 21.8,
+        "date": "10/24/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
@@ -2494,8 +2395,107 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 0.7,
-        "date": "04/10/2022",
+        "value": 5.3,
+        "date": "10/24/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 25.4,
+        "date": "10/31/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.8,
+        "date": "10/31/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 27.6,
+        "date": "11/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.9,
+        "date": "11/07/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 26.7,
+        "date": "11/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.3,
+        "date": "11/14/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 24.6,
+        "date": "11/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.9,
+        "date": "11/21/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 23.4,
+        "date": "11/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.4,
+        "date": "11/28/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 21.9,
+        "date": "12/05/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Hospitalizations per 100,000 by Admission Date & Vaccination Status"
       }
