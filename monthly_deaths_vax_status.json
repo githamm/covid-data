@@ -217,7 +217,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 451.6,
+        "value": 451.5,
         "date": "10/01/2021",
         "description": "All vaccine types",
         "category": "Age-Adjusted COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
@@ -370,44 +370,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 46.1,
-        "date": "03/01/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 22.5,
-        "date": "03/01/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
         "value": 66.4,
         "date": "08/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 7.6,
-        "date": "04/01/2022",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 9.2,
-        "date": "04/01/2022",
         "description": "All vaccine types",
         "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
       }
@@ -442,35 +406,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 100.6,
-        "date": "01/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 0,
-        "date": "01/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
         "value": 202,
         "date": "10/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 45,
-        "date": "02/01/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
       }
@@ -496,26 +433,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 0,
-        "date": "02/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
         "value": 63.4,
         "date": "11/01/2021",
-        "description": "All vaccine types",
-        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 31.9,
-        "date": "03/01/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
       }
@@ -570,6 +489,87 @@
         "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
         "value": 59.3,
         "date": "02/01/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 46.1,
+        "date": "03/01/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 22.5,
+        "date": "03/01/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 7.6,
+        "date": "04/01/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 9.2,
+        "date": "04/01/2022",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 100.6,
+        "date": "01/01/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 0,
+        "date": "01/01/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 45,
+        "date": "02/01/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 0,
+        "date": "02/01/2021",
+        "description": "All vaccine types",
+        "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 31.9,
+        "date": "03/01/2021",
         "description": "All vaccine types",
         "category": "COVID-19 Deaths per 1 million by Month of Death & Vaccination Status"
       }
