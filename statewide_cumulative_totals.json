@@ -83,35 +83,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
-        "metric": "Probable deaths among cases",
-        "value": 1504,
-        "report_date": "06/27/2022",
-        "ObjectId": 14027
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "06/26/2022",
-        "metric": "Percent of probable deaths among cases",
-        "value": 0.118,
-        "report_date": "06/27/2022",
-        "ObjectId": 14037
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Cases",
-        "value": 1528939,
-        "report_date": "06/27/2022",
-        "ObjectId": 14237
+        "value": 1530707,
+        "report_date": "06/28/2022",
+        "ObjectId": 14054
       }
     },
     {
@@ -119,11 +95,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Hospitalized",
-        "value": 64463,
-        "report_date": "06/27/2022",
-        "ObjectId": 14238
+        "value": 64571,
+        "report_date": "06/28/2022",
+        "ObjectId": 14055
       }
     },
     {
@@ -131,11 +107,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Counties",
         "value": 64,
-        "report_date": "06/27/2022",
-        "ObjectId": 14239
+        "report_date": "06/28/2022",
+        "ObjectId": 14056
       }
     },
     {
@@ -143,11 +119,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "People Tested",
-        "value": 4984275,
-        "report_date": "06/27/2022",
-        "ObjectId": 14240
+        "value": 4985811,
+        "report_date": "06/28/2022",
+        "ObjectId": 14057
       }
     },
     {
@@ -155,11 +131,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Test Encounters",
-        "value": 18876149,
-        "report_date": "06/27/2022",
-        "ObjectId": 14241
+        "value": 18887825,
+        "report_date": "06/28/2022",
+        "ObjectId": 14058
       }
     },
     {
@@ -167,11 +143,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Deaths Among Cases",
-        "value": 12745,
-        "report_date": "06/27/2022",
-        "ObjectId": 14242
+        "value": 12753,
+        "report_date": "06/28/2022",
+        "ObjectId": 14059
       }
     },
     {
@@ -179,11 +155,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Deaths Due to COVID-19",
-        "value": 13349,
-        "report_date": "06/27/2022",
-        "ObjectId": 14243
+        "value": 13182,
+        "report_date": "06/28/2022",
+        "ObjectId": 14060
       }
     },
     {
@@ -191,11 +167,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Outbreaks",
-        "value": 9227,
-        "report_date": "06/27/2022",
-        "ObjectId": 14244
+        "value": 9240,
+        "report_date": "06/28/2022",
+        "ObjectId": 14061
       }
     },
     {
@@ -203,11 +179,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Confirmed cases",
-        "value": 1388963,
-        "report_date": "06/27/2022",
-        "ObjectId": 14245
+        "value": 1390349,
+        "report_date": "06/28/2022",
+        "ObjectId": 14062
       }
     },
     {
@@ -215,11 +191,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Percent of confirmed cases",
         "value": 0.908,
-        "report_date": "06/27/2022",
-        "ObjectId": 14246
+        "report_date": "06/28/2022",
+        "ObjectId": 14063
       }
     },
     {
@@ -227,11 +203,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Probable cases",
-        "value": 139976,
-        "report_date": "06/27/2022",
-        "ObjectId": 14247
+        "value": 140358,
+        "report_date": "06/28/2022",
+        "ObjectId": 14064
       }
     },
     {
@@ -239,11 +215,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Percent of probable cases",
         "value": 0.092,
-        "report_date": "06/27/2022",
-        "ObjectId": 14248
+        "report_date": "06/28/2022",
+        "ObjectId": 14065
       }
     },
     {
@@ -251,11 +227,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Confirmed deaths among cases",
-        "value": 11241,
-        "report_date": "06/27/2022",
-        "ObjectId": 14249
+        "value": 11249,
+        "report_date": "06/28/2022",
+        "ObjectId": 14066
       }
     },
     {
@@ -263,11 +239,35 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "06/26/2022",
+        "date": "06/27/2022",
         "metric": "Percent of confirmed deaths among cases",
         "value": 0.882,
-        "report_date": "06/27/2022",
-        "ObjectId": 14250
+        "report_date": "06/28/2022",
+        "ObjectId": 14067
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "06/27/2022",
+        "metric": "Probable deaths among cases",
+        "value": 1504,
+        "report_date": "06/28/2022",
+        "ObjectId": 14068
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "06/27/2022",
+        "metric": "Percent of probable deaths among cases",
+        "value": 0.118,
+        "report_date": "06/28/2022",
+        "ObjectId": 14069
       }
     }
   ]
