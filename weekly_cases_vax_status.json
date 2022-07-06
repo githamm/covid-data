@@ -55,6 +55,78 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 3390.5,
+        "date": "01/02/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 119.6,
+        "date": "09/26/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 94.9,
+        "date": "07/04/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 28.9,
+        "date": "04/04/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 1850.9,
+        "date": "01/02/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 39.8,
+        "date": "03/27/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 527.9,
+        "date": "10/03/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 16,
+        "date": "07/04/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 324.1,
         "date": "01/03/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
@@ -172,7 +244,7 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 17.9,
+        "value": 18.8,
         "date": "02/14/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -298,8 +370,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 28.9,
-        "date": "04/04/2021",
+        "value": 131.3,
+        "date": "10/03/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -315,9 +387,72 @@
     },
     {
       "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 109.9,
+        "date": "07/11/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 2894,
+        "date": "01/09/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 508.7,
+        "date": "10/10/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 55.3,
+        "date": "04/03/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 29.2,
+        "value": 29.3,
         "date": "04/11/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 22.3,
+        "date": "07/11/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 43,
+        "date": "04/03/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 121.9,
+        "date": "10/10/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -327,6 +462,24 @@
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 254,
         "date": "04/18/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 1493.5,
+        "date": "01/09/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 70.4,
+        "date": "04/10/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -523,17 +676,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 94.9,
-        "date": "07/04/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 16,
-        "date": "07/04/2021",
+        "value": 602,
+        "date": "10/17/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -541,26 +685,35 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 109.9,
-        "date": "07/11/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 22.3,
-        "date": "07/11/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 144.2,
+        "value": 144.3,
         "date": "07/18/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 156.2,
+        "date": "10/17/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 2021.8,
+        "date": "01/16/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 62,
+        "date": "04/10/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -595,7 +748,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 225.8,
+        "value": 226,
         "date": "08/01/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -613,7 +766,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 269.7,
+        "value": 269.8,
         "date": "08/08/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -622,7 +775,7 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 79.2,
+        "value": 79.3,
         "date": "08/08/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -631,7 +784,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 335.3,
+        "value": 335.4,
         "date": "08/15/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -739,7 +892,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 477.8,
+        "value": 477.9,
         "date": "09/26/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -747,45 +900,9 @@
     },
     {
       "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 39.8,
-        "date": "03/27/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 55.3,
-        "date": "04/03/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 43,
-        "date": "04/03/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 70.4,
-        "date": "04/10/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 62.1,
-        "date": "04/10/2022",
+        "value": 701.9,
+        "date": "10/24/2021",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -802,242 +919,8 @@
     {
       "attributes": {
         "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 82.4,
-        "date": "04/17/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 123.2,
-        "date": "04/24/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 98.2,
-        "date": "04/24/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 161.4,
-        "date": "05/01/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 127.7,
-        "date": "05/01/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 227.6,
-        "date": "05/08/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 170.9,
-        "date": "05/08/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 261.2,
-        "date": "05/15/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 189.2,
-        "date": "05/15/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 329.8,
-        "date": "05/22/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 232.5,
-        "date": "05/22/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 377.2,
-        "date": "05/29/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 247.9,
-        "date": "05/29/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 412.9,
-        "date": "06/05/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 248.6,
-        "date": "06/05/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 352.3,
-        "date": "06/12/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 216,
-        "date": "06/12/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 353.6,
-        "date": "06/19/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 212.3,
-        "date": "06/19/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 119.6,
-        "date": "09/26/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 527.9,
-        "date": "10/03/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 131.3,
-        "date": "10/03/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 508.7,
-        "date": "10/10/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 121.9,
-        "date": "10/10/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 602,
-        "date": "10/17/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 156.3,
-        "date": "10/17/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 701.8,
-        "date": "10/24/2021",
+        "value": 1069.7,
+        "date": "01/16/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1054,206 +937,26 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 1213.3,
+        "date": "01/23/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 82.4,
+        "date": "04/17/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 767.2,
         "date": "10/31/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 217.5,
-        "date": "10/31/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 830.5,
-        "date": "11/07/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 223.2,
-        "date": "11/07/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 772.6,
-        "date": "11/14/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 208.5,
-        "date": "11/14/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 564.9,
-        "date": "11/21/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 152,
-        "date": "11/21/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 667.1,
-        "date": "11/28/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 178.7,
-        "date": "11/28/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 470.5,
-        "date": "12/05/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 120.2,
-        "date": "12/05/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 445.2,
-        "date": "12/12/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 162,
-        "date": "12/12/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 875.4,
-        "date": "12/19/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 535.2,
-        "date": "12/19/2021",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 3390.4,
-        "date": "01/02/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 1850.9,
-        "date": "01/02/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 2894,
-        "date": "01/09/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 1493.4,
-        "date": "01/09/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 2021.6,
-        "date": "01/16/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
-        "value": 1069.8,
-        "date": "01/16/2022",
-        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 1213.2,
-        "date": "01/23/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1270,7 +973,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 602,
+        "value": 602.1,
         "date": "01/30/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1288,7 +991,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 333.3,
+        "value": 333.6,
         "date": "02/06/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1306,7 +1009,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 195.1,
+        "value": 195,
         "date": "02/13/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1324,7 +1027,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 111.4,
+        "value": 111.3,
         "date": "02/20/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1360,7 +1063,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 61.6,
+        "value": 61.4,
         "date": "03/06/2022",
         "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1422,9 +1125,306 @@
     },
     {
       "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 217.5,
+        "date": "10/31/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 223.9,
-        "date": "04/11/2021",
+        "value": 123.2,
+        "date": "04/24/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 98.2,
+        "date": "04/24/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 161.4,
+        "date": "05/01/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 127.7,
+        "date": "05/01/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 228.1,
+        "date": "05/08/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 171.2,
+        "date": "05/08/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 262.9,
+        "date": "05/15/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 191.1,
+        "date": "05/15/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 330,
+        "date": "05/22/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 232.9,
+        "date": "05/22/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 377.8,
+        "date": "05/29/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 249,
+        "date": "05/29/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 413.6,
+        "date": "06/05/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 249.7,
+        "date": "06/05/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 352.7,
+        "date": "06/12/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 216.1,
+        "date": "06/12/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 355.4,
+        "date": "06/19/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 213.4,
+        "date": "06/19/2022",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 830.7,
+        "date": "11/07/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 223.2,
+        "date": "11/07/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 772.7,
+        "date": "11/14/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 208.5,
+        "date": "11/14/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 565,
+        "date": "11/21/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 152.1,
+        "date": "11/21/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 667.2,
+        "date": "11/28/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 178.7,
+        "date": "11/28/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 470.5,
+        "date": "12/05/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 120.2,
+        "date": "12/05/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 445.3,
+        "date": "12/12/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 162,
+        "date": "12/12/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 875.4,
+        "date": "12/19/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Vaccinated rate per 100k of COVID-19 Cases",
+        "value": 535.1,
+        "date": "12/19/2021",
+        "category": "Age-Adjusted COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 297.9,
+        "date": "01/03/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1432,8 +1432,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 244.9,
-        "date": "04/18/2021",
+        "value": 213.3,
+        "date": "01/10/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1441,8 +1441,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 243.2,
-        "date": "04/25/2021",
+        "value": 175.1,
+        "date": "01/17/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1450,8 +1450,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 212.2,
-        "date": "05/02/2021",
+        "value": 158.1,
+        "date": "01/24/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1459,35 +1459,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 169.5,
-        "date": "05/09/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 139,
-        "date": "05/16/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 104.2,
-        "date": "05/23/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 83.2,
-        "date": "05/30/2021",
+        "value": 144.9,
+        "date": "01/31/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1506,6 +1479,15 @@
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 67.2,
         "date": "06/06/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 223.9,
+        "date": "04/11/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1533,24 +1515,6 @@
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 61.5,
         "date": "06/20/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 121.8,
-        "date": "02/21/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 119.2,
-        "date": "02/28/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1603,53 +1567,89 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 244.9,
+        "date": "04/18/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 121.8,
+        "date": "02/21/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 243.2,
+        "date": "04/25/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 212.2,
+        "date": "05/02/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 169.5,
+        "date": "05/09/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 139,
+        "date": "05/16/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 104.3,
+        "date": "05/23/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 83.2,
+        "date": "05/30/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 119.2,
+        "date": "02/28/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 122.8,
         "date": "03/07/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 297.9,
-        "date": "01/03/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 213.3,
-        "date": "01/10/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 175.1,
-        "date": "01/17/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 158.1,
-        "date": "01/24/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 144.9,
-        "date": "01/31/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1693,8 +1693,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 187.6,
-        "date": "08/01/2021",
+        "value": 432,
+        "date": "10/03/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1702,8 +1702,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 526.6,
-        "date": "11/28/2021",
+        "value": 414.2,
+        "date": "10/10/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1711,8 +1711,98 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 279.8,
+        "value": 484.1,
+        "date": "10/17/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 573.3,
+        "date": "10/24/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 639.9,
+        "date": "10/31/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 701,
+        "date": "11/07/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 638.1,
+        "date": "11/14/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 429.5,
+        "date": "11/21/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 280.2,
         "date": "05/29/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 305.6,
+        "date": "06/05/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 263.2,
+        "date": "06/12/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 266.5,
+        "date": "06/19/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 187.7,
+        "date": "08/01/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1729,6 +1819,132 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 526.6,
+        "date": "11/28/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 275.4,
+        "date": "02/06/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 44,
+        "date": "04/03/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 364.7,
+        "date": "12/05/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 349.6,
+        "date": "12/12/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 696.6,
+        "date": "12/19/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 2820.8,
+        "date": "01/02/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 2485.1,
+        "date": "01/09/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 1756,
+        "date": "01/16/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 1037.1,
+        "date": "01/23/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 58.7,
+        "date": "04/10/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 74.7,
+        "date": "04/17/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 97.6,
+        "date": "04/24/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 128.4,
+        "date": "05/01/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 221.9,
         "date": "08/08/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
@@ -1738,8 +1954,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 304.9,
-        "date": "06/05/2022",
+        "value": 181.1,
+        "date": "05/08/2022",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1747,8 +1963,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 262.9,
-        "date": "06/12/2022",
+        "value": 204.2,
+        "date": "05/15/2022",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1756,17 +1972,8 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 265.2,
-        "date": "06/19/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 275.3,
-        "date": "02/06/2022",
+        "value": 252.9,
+        "date": "05/22/2022",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1783,8 +1990,26 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 287.4,
+        "date": "08/15/2021",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
         "value": 91.8,
         "date": "02/20/2022",
+        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
+        "description": "All vaccine types"
+      }
+    },
+    {
+      "attributes": {
+        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
+        "value": 329.4,
+        "date": "08/22/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
       }
@@ -1801,7 +2026,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 50.2,
+        "value": 50.1,
         "date": "03/06/2022",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -1837,232 +2062,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 364.7,
-        "date": "12/05/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 44,
-        "date": "04/03/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 287.3,
-        "date": "08/15/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 349.6,
-        "date": "12/12/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 696.6,
-        "date": "12/19/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 2820.7,
-        "date": "01/02/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 2485.2,
-        "date": "01/09/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 1755.9,
-        "date": "01/16/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 1037.1,
-        "date": "01/23/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 432,
-        "date": "10/03/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 414.2,
-        "date": "10/10/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 484.2,
-        "date": "10/17/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 573.3,
-        "date": "10/24/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 639.9,
-        "date": "10/31/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 700.9,
-        "date": "11/07/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 638.1,
-        "date": "11/14/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 429.5,
-        "date": "11/21/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 58.7,
-        "date": "04/10/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 329.4,
-        "date": "08/22/2021",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 74.7,
-        "date": "04/17/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 97.6,
-        "date": "04/24/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 128.4,
-        "date": "05/01/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 180.7,
-        "date": "05/08/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 203.1,
-        "date": "05/15/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 252.7,
-        "date": "05/22/2022",
-        "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
-        "description": "All vaccine types"
-      }
-    },
-    {
-      "attributes": {
-        "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 366.2,
+        "value": 366.1,
         "date": "08/29/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -2089,7 +2089,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 344.8,
+        "value": 344.7,
         "date": "09/19/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
@@ -2098,7 +2098,7 @@
     {
       "attributes": {
         "metric": "Unvaccinated rate per 100k of COVID-19 Cases",
-        "value": 398.8,
+        "value": 398.9,
         "date": "09/26/2021",
         "category": "COVID-19 Cases per 100,000 by Specimen Collection Date & Vaccination Status",
         "description": "All vaccine types"
