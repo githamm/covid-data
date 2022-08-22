@@ -33,24 +33,6 @@
     },
     {
       "attributes": {
-        "date": "11/10/2020",
-        "value": 1116
-      }
-    },
-    {
-      "attributes": {
-        "date": "11/17/2020",
-        "value": 1378
-      }
-    },
-    {
-      "attributes": {
-        "date": "11/24/2020",
-        "value": 1613
-      }
-    },
-    {
-      "attributes": {
         "date": "11/02/2021",
         "value": 1254
       }
@@ -63,8 +45,14 @@
     },
     {
       "attributes": {
-        "date": "12/01/2020",
-        "value": 1847
+        "date": "11/10/2020",
+        "value": 1116
+      }
+    },
+    {
+      "attributes": {
+        "date": "11/17/2020",
+        "value": 1378
       }
     },
     {
@@ -75,8 +63,8 @@
     },
     {
       "attributes": {
-        "date": "12/08/2020",
-        "value": 1629
+        "date": "11/24/2020",
+        "value": 1613
       }
     },
     {
@@ -87,8 +75,8 @@
     },
     {
       "attributes": {
-        "date": "12/15/2020",
-        "value": 1445
+        "date": "12/01/2020",
+        "value": 1847
       }
     },
     {
@@ -99,14 +87,38 @@
     },
     {
       "attributes": {
-        "date": "12/22/2020",
-        "value": 1243
+        "date": "12/08/2020",
+        "value": 1629
+      }
+    },
+    {
+      "attributes": {
+        "date": "12/15/2020",
+        "value": 1445
       }
     },
     {
       "attributes": {
         "date": "12/07/2021",
         "value": 1419
+      }
+    },
+    {
+      "attributes": {
+        "date": "12/14/2021",
+        "value": 1270
+      }
+    },
+    {
+      "attributes": {
+        "date": "12/22/2020",
+        "value": 1243
+      }
+    },
+    {
+      "attributes": {
+        "date": "12/21/2021",
+        "value": 1030
       }
     },
     {
@@ -129,32 +141,8 @@
     },
     {
       "attributes": {
-        "date": "12/14/2021",
-        "value": 1270
-      }
-    },
-    {
-      "attributes": {
-        "date": "12/21/2021",
-        "value": 1030
-      }
-    },
-    {
-      "attributes": {
-        "date": "12/28/2021",
-        "value": 1057
-      }
-    },
-    {
-      "attributes": {
         "date": "01/19/2021",
         "value": 727
-      }
-    },
-    {
-      "attributes": {
-        "date": "01/04/2022",
-        "value": 1292
       }
     },
     {
@@ -165,20 +153,8 @@
     },
     {
       "attributes": {
-        "date": "01/11/2022",
-        "value": 1488
-      }
-    },
-    {
-      "attributes": {
         "date": "02/02/2021",
         "value": 529
-      }
-    },
-    {
-      "attributes": {
-        "date": "01/18/2022",
-        "value": 1676
       }
     },
     {
@@ -405,6 +381,30 @@
     },
     {
       "attributes": {
+        "date": "12/28/2021",
+        "value": 1057
+      }
+    },
+    {
+      "attributes": {
+        "date": "01/04/2022",
+        "value": 1292
+      }
+    },
+    {
+      "attributes": {
+        "date": "01/11/2022",
+        "value": 1488
+      }
+    },
+    {
+      "attributes": {
+        "date": "01/18/2022",
+        "value": 1676
+      }
+    },
+    {
+      "attributes": {
         "date": "01/25/2022",
         "value": 1547
       }
@@ -459,8 +459,20 @@
     },
     {
       "attributes": {
+        "date": "03/24/2020",
+        "value": 116
+      }
+    },
+    {
+      "attributes": {
         "date": "03/29/2022",
         "value": 84
+      }
+    },
+    {
+      "attributes": {
+        "date": "03/31/2020",
+        "value": 503
       }
     },
     {
@@ -471,8 +483,20 @@
     },
     {
       "attributes": {
+        "date": "04/07/2020",
+        "value": 786
+      }
+    },
+    {
+      "attributes": {
         "date": "04/12/2022",
         "value": 77
+      }
+    },
+    {
+      "attributes": {
+        "date": "04/14/2020",
+        "value": 888
       }
     },
     {
@@ -483,8 +507,20 @@
     },
     {
       "attributes": {
+        "date": "04/21/2020",
+        "value": 851
+      }
+    },
+    {
+      "attributes": {
         "date": "04/26/2022",
         "value": 103
+      }
+    },
+    {
+      "attributes": {
+        "date": "04/28/2020",
+        "value": 784
       }
     },
     {
@@ -495,8 +531,20 @@
     },
     {
       "attributes": {
+        "date": "05/05/2020",
+        "value": 650
+      }
+    },
+    {
+      "attributes": {
         "date": "05/10/2022",
         "value": 116
+      }
+    },
+    {
+      "attributes": {
+        "date": "05/12/2020",
+        "value": 563
       }
     },
     {
@@ -581,54 +629,6 @@
       "attributes": {
         "date": "08/16/2022",
         "value": 236
-      }
-    },
-    {
-      "attributes": {
-        "date": "03/24/2020",
-        "value": 116
-      }
-    },
-    {
-      "attributes": {
-        "date": "03/31/2020",
-        "value": 503
-      }
-    },
-    {
-      "attributes": {
-        "date": "04/07/2020",
-        "value": 786
-      }
-    },
-    {
-      "attributes": {
-        "date": "04/14/2020",
-        "value": 888
-      }
-    },
-    {
-      "attributes": {
-        "date": "04/21/2020",
-        "value": 851
-      }
-    },
-    {
-      "attributes": {
-        "date": "04/28/2020",
-        "value": 784
-      }
-    },
-    {
-      "attributes": {
-        "date": "05/05/2020",
-        "value": 650
-      }
-    },
-    {
-      "attributes": {
-        "date": "05/12/2020",
-        "value": 563
       }
     },
     {
