@@ -83,167 +83,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Deaths Among Cases",
-        "value": 13840,
-        "report_date": "12/23/2022",
-        "ObjectId": 17203
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Deaths Due to COVID-19",
-        "value": 14512,
-        "report_date": "12/23/2022",
-        "ObjectId": 17218
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Outbreaks",
-        "value": 10336,
-        "report_date": "12/23/2022",
-        "ObjectId": 17260
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Cases",
-        "value": 1730454,
-        "report_date": "12/23/2022",
-        "ObjectId": 17313
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Hospitalized",
-        "value": 73813,
-        "report_date": "12/23/2022",
-        "ObjectId": 17314
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Counties",
-        "value": 64,
-        "report_date": "12/23/2022",
-        "ObjectId": 17315
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "People Tested",
-        "value": 5221029,
-        "report_date": "12/23/2022",
-        "ObjectId": 17316
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Test Encounters",
-        "value": 20943001,
-        "report_date": "12/23/2022",
-        "ObjectId": 17317
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Confirmed cases",
-        "value": 1558969,
-        "report_date": "12/23/2022",
-        "ObjectId": 17318
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Percent of confirmed cases",
-        "value": 0.901,
-        "report_date": "12/23/2022",
-        "ObjectId": 17319
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Probable cases",
-        "value": 171485,
-        "report_date": "12/23/2022",
-        "ObjectId": 17320
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Percent of probable cases",
-        "value": 0.099,
-        "report_date": "12/23/2022",
-        "ObjectId": 17321
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
-        "metric": "Confirmed deaths among cases",
-        "value": 12213,
-        "report_date": "12/23/2022",
-        "ObjectId": 17322
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": "12/22/2022",
+        "date": "12/25/2022",
         "metric": "Percent of confirmed deaths among cases",
         "value": 0.882,
-        "report_date": "12/23/2022",
-        "ObjectId": 17323
+        "report_date": "12/26/2022",
+        "ObjectId": 17202
       }
     },
     {
@@ -251,11 +95,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "12/22/2022",
+        "date": "12/25/2022",
         "metric": "Probable deaths among cases",
-        "value": 1627,
-        "report_date": "12/23/2022",
-        "ObjectId": 17324
+        "value": 1628,
+        "report_date": "12/26/2022",
+        "ObjectId": 17207
       }
     },
     {
@@ -263,11 +107,167 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "12/22/2022",
+        "date": "12/25/2022",
         "metric": "Percent of probable deaths among cases",
         "value": 0.118,
-        "report_date": "12/23/2022",
-        "ObjectId": 17325
+        "report_date": "12/26/2022",
+        "ObjectId": 17209
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Cases",
+        "value": 1731939,
+        "report_date": "12/26/2022",
+        "ObjectId": 17424
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Hospitalized",
+        "value": 73902,
+        "report_date": "12/26/2022",
+        "ObjectId": 17425
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Counties",
+        "value": 64,
+        "report_date": "12/26/2022",
+        "ObjectId": 17426
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "People Tested",
+        "value": 5223713,
+        "report_date": "12/26/2022",
+        "ObjectId": 17427
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Test Encounters",
+        "value": 20959569,
+        "report_date": "12/26/2022",
+        "ObjectId": 17428
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Deaths Among Cases",
+        "value": 13842,
+        "report_date": "12/26/2022",
+        "ObjectId": 17429
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Deaths Due to COVID-19",
+        "value": 14512,
+        "report_date": "12/26/2022",
+        "ObjectId": 17430
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Outbreaks",
+        "value": 10336,
+        "report_date": "12/26/2022",
+        "ObjectId": 17431
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Confirmed cases",
+        "value": 1560222,
+        "report_date": "12/26/2022",
+        "ObjectId": 17432
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Percent of confirmed cases",
+        "value": 0.901,
+        "report_date": "12/26/2022",
+        "ObjectId": 17433
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Probable cases",
+        "value": 171717,
+        "report_date": "12/26/2022",
+        "ObjectId": 17434
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Percent of probable cases",
+        "value": 0.099,
+        "report_date": "12/26/2022",
+        "ObjectId": 17435
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": "12/25/2022",
+        "metric": "Confirmed deaths among cases",
+        "value": 12214,
+        "report_date": "12/26/2022",
+        "ObjectId": 17436
       }
     }
   ]
