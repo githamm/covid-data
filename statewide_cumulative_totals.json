@@ -83,11 +83,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Cases",
-        "value": 1752553,
-        "report_date": "02/08/2023",
-        "ObjectId": 18156
+        "value": 1753203,
+        "report_date": "02/09/2023",
+        "ObjectId": 18079
       }
     },
     {
@@ -95,11 +95,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Hospitalized",
-        "value": 75473,
-        "report_date": "02/08/2023",
-        "ObjectId": 18162
+        "value": 75541,
+        "report_date": "02/09/2023",
+        "ObjectId": 18080
       }
     },
     {
@@ -107,11 +107,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Counties",
         "value": 64,
-        "report_date": "02/08/2023",
-        "ObjectId": 18209
+        "report_date": "02/09/2023",
+        "ObjectId": 18081
       }
     },
     {
@@ -119,11 +119,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "People Tested",
-        "value": 5258436,
-        "report_date": "02/08/2023",
-        "ObjectId": 18210
+        "value": 5259719,
+        "report_date": "02/09/2023",
+        "ObjectId": 18082
       }
     },
     {
@@ -131,11 +131,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Test Encounters",
-        "value": 21153826,
-        "report_date": "02/08/2023",
-        "ObjectId": 18212
+        "value": 21159122,
+        "report_date": "02/09/2023",
+        "ObjectId": 18083
       }
     },
     {
@@ -143,11 +143,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Deaths Among Cases",
-        "value": 14085,
-        "report_date": "02/08/2023",
-        "ObjectId": 18215
+        "value": 14093,
+        "report_date": "02/09/2023",
+        "ObjectId": 18084
       }
     },
     {
@@ -155,11 +155,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Deaths Due to COVID-19",
-        "value": 14822,
-        "report_date": "02/08/2023",
-        "ObjectId": 18219
+        "value": 14830,
+        "report_date": "02/09/2023",
+        "ObjectId": 18085
       }
     },
     {
@@ -167,11 +167,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Outbreaks",
         "value": 10564,
-        "report_date": "02/08/2023",
-        "ObjectId": 18221
+        "report_date": "02/09/2023",
+        "ObjectId": 18086
       }
     },
     {
@@ -179,11 +179,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Confirmed cases",
-        "value": 1576979,
-        "report_date": "02/08/2023",
-        "ObjectId": 18224
+        "value": 1577501,
+        "report_date": "02/09/2023",
+        "ObjectId": 18087
       }
     },
     {
@@ -191,11 +191,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Percent of confirmed cases",
         "value": 0.9,
-        "report_date": "02/08/2023",
-        "ObjectId": 18229
+        "report_date": "02/09/2023",
+        "ObjectId": 18088
       }
     },
     {
@@ -203,11 +203,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Probable cases",
-        "value": 175574,
-        "report_date": "02/08/2023",
-        "ObjectId": 18233
+        "value": 175702,
+        "report_date": "02/09/2023",
+        "ObjectId": 18089
       }
     },
     {
@@ -215,11 +215,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Percent of probable cases",
         "value": 0.1,
-        "report_date": "02/08/2023",
-        "ObjectId": 18238
+        "report_date": "02/09/2023",
+        "ObjectId": 18090
       }
     },
     {
@@ -227,11 +227,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Confirmed deaths among cases",
-        "value": 12426,
-        "report_date": "02/08/2023",
-        "ObjectId": 18272
+        "value": 12434,
+        "report_date": "02/09/2023",
+        "ObjectId": 18091
       }
     },
     {
@@ -239,11 +239,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Percent of confirmed deaths among cases",
         "value": 0.884,
-        "report_date": "02/08/2023",
-        "ObjectId": 18276
+        "report_date": "02/09/2023",
+        "ObjectId": 18092
       }
     },
     {
@@ -251,11 +251,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Probable deaths among cases",
         "value": 1636,
-        "report_date": "02/08/2023",
-        "ObjectId": 18283
+        "report_date": "02/09/2023",
+        "ObjectId": 18093
       }
     },
     {
@@ -263,11 +263,11 @@
         "section": "State Data",
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
-        "date": "02/07/2023",
+        "date": "02/08/2023",
         "metric": "Percent of probable deaths among cases",
         "value": 0.116,
-        "report_date": "02/08/2023",
-        "ObjectId": 18287
+        "report_date": "02/09/2023",
+        "ObjectId": 18094
       }
     }
   ]
