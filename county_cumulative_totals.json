@@ -94,9 +94,9 @@
       "attributes": {
         "LABEL": "La Plata",
         "County_Population": 56280,
-        "County_Rate_Per_100_000": 28189.41,
+        "County_Rate_Per_100_000": 28201.85,
         "County_Deaths": 99,
-        "County_Pos_Cases": 15865
+        "County_Pos_Cases": 15872
       }
     },
     {
@@ -121,9 +121,9 @@
       "attributes": {
         "LABEL": "Park",
         "County_Population": 17720,
-        "County_Rate_Per_100_000": 19751.69,
+        "County_Rate_Per_100_000": 19762.98,
         "County_Deaths": 24,
-        "County_Pos_Cases": 3500
+        "County_Pos_Cases": 3502
       }
     },
     {
@@ -139,9 +139,9 @@
       "attributes": {
         "LABEL": "Prowers",
         "County_Population": 11978,
-        "County_Rate_Per_100_000": 26982.8,
+        "County_Rate_Per_100_000": 26999.5,
         "County_Deaths": 52,
-        "County_Pos_Cases": 3232
+        "County_Pos_Cases": 3234
       }
     },
     {
@@ -157,63 +157,63 @@
       "attributes": {
         "LABEL": "Jefferson",
         "County_Population": 579651,
-        "County_Rate_Per_100_000": 27743.59,
-        "County_Deaths": 1555,
-        "County_Pos_Cases": 160816
+        "County_Rate_Per_100_000": 27760.15,
+        "County_Deaths": 1556,
+        "County_Pos_Cases": 160912
       }
     },
     {
       "attributes": {
         "LABEL": "Summit",
         "County_Population": 30970,
-        "County_Rate_Per_100_000": 38992.57,
+        "County_Rate_Per_100_000": 38995.8,
         "County_Deaths": 15,
-        "County_Pos_Cases": 12076
+        "County_Pos_Cases": 12077
       }
     },
     {
       "attributes": {
         "LABEL": "Pueblo",
         "County_Population": 169503,
-        "County_Rate_Per_100_000": 36606.43,
+        "County_Rate_Per_100_000": 36624.72,
         "County_Deaths": 881,
-        "County_Pos_Cases": 62049
+        "County_Pos_Cases": 62080
       }
     },
     {
       "attributes": {
         "LABEL": "Boulder",
         "County_Population": 329789,
-        "County_Rate_Per_100_000": 27686.49,
+        "County_Rate_Per_100_000": 27700.44,
         "County_Deaths": 447,
-        "County_Pos_Cases": 91307
+        "County_Pos_Cases": 91353
       }
     },
     {
       "attributes": {
         "LABEL": "Denver",
         "County_Population": 711975,
-        "County_Rate_Per_100_000": 31634.54,
+        "County_Rate_Per_100_000": 31649.85,
         "County_Deaths": 1525,
-        "County_Pos_Cases": 225230
+        "County_Pos_Cases": 225339
       }
     },
     {
       "attributes": {
         "LABEL": "Montrose",
         "County_Population": 43178,
-        "County_Rate_Per_100_000": 25915.98,
+        "County_Rate_Per_100_000": 25920.61,
         "County_Deaths": 183,
-        "County_Pos_Cases": 11190
+        "County_Pos_Cases": 11192
       }
     },
     {
       "attributes": {
         "LABEL": "Eagle",
         "County_Population": 55702,
-        "County_Rate_Per_100_000": 33849.77,
+        "County_Rate_Per_100_000": 33858.75,
         "County_Deaths": 39,
-        "County_Pos_Cases": 18855
+        "County_Pos_Cases": 18860
       }
     },
     {
@@ -229,45 +229,45 @@
       "attributes": {
         "LABEL": "Costilla",
         "County_Population": 3619,
-        "County_Rate_Per_100_000": 26747.72,
+        "County_Rate_Per_100_000": 26775.35,
         "County_Deaths": 19,
-        "County_Pos_Cases": 968
+        "County_Pos_Cases": 969
       }
     },
     {
       "attributes": {
         "LABEL": "Broomfield",
         "County_Population": 75361,
-        "County_Rate_Per_100_000": 24419.79,
+        "County_Rate_Per_100_000": 24433.06,
         "County_Deaths": 133,
-        "County_Pos_Cases": 18403
+        "County_Pos_Cases": 18413
       }
     },
     {
       "attributes": {
         "LABEL": "Chaffee",
         "County_Population": 20095,
-        "County_Rate_Per_100_000": 28201.05,
+        "County_Rate_Per_100_000": 28225.93,
         "County_Deaths": 56,
-        "County_Pos_Cases": 5667
+        "County_Pos_Cases": 5672
       }
     },
     {
       "attributes": {
         "LABEL": "Crowley",
         "County_Population": 6016,
-        "County_Rate_Per_100_000": 59142.29,
+        "County_Rate_Per_100_000": 59158.91,
         "County_Deaths": 33,
-        "County_Pos_Cases": 3558
+        "County_Pos_Cases": 3559
       }
     },
     {
       "attributes": {
         "LABEL": "Fremont",
         "County_Population": 49636,
-        "County_Rate_Per_100_000": 37909.98,
+        "County_Rate_Per_100_000": 37944.23,
         "County_Deaths": 210,
-        "County_Pos_Cases": 18817
+        "County_Pos_Cases": 18834
       }
     },
     {
@@ -283,18 +283,18 @@
       "attributes": {
         "LABEL": "Delta",
         "County_Population": 31674,
-        "County_Rate_Per_100_000": 22756.84,
+        "County_Rate_Per_100_000": 22759.99,
         "County_Deaths": 161,
-        "County_Pos_Cases": 7208
+        "County_Pos_Cases": 7209
       }
     },
     {
       "attributes": {
         "LABEL": "Garfield",
         "County_Population": 62151,
-        "County_Rate_Per_100_000": 29043.78,
+        "County_Rate_Per_100_000": 29053.43,
         "County_Deaths": 104,
-        "County_Pos_Cases": 18051
+        "County_Pos_Cases": 18057
       }
     },
     {
@@ -310,9 +310,9 @@
       "attributes": {
         "LABEL": "Morgan",
         "County_Population": 28982,
-        "County_Rate_Per_100_000": 24073.56,
+        "County_Rate_Per_100_000": 24083.91,
         "County_Deaths": 148,
-        "County_Pos_Cases": 6977
+        "County_Pos_Cases": 6980
       }
     },
     {
@@ -328,45 +328,45 @@
       "attributes": {
         "LABEL": "Montezuma",
         "County_Population": 26226,
-        "County_Rate_Per_100_000": 29302.98,
+        "County_Rate_Per_100_000": 29322.05,
         "County_Deaths": 90,
-        "County_Pos_Cases": 7685
+        "County_Pos_Cases": 7690
       }
     },
     {
       "attributes": {
         "LABEL": "Adams",
         "County_Population": 522509,
-        "County_Rate_Per_100_000": 31874.09,
+        "County_Rate_Per_100_000": 31889.02,
         "County_Deaths": 1466,
-        "County_Pos_Cases": 166545
+        "County_Pos_Cases": 166623
       }
     },
     {
       "attributes": {
         "LABEL": "Mineral",
         "County_Population": 930,
-        "County_Rate_Per_100_000": 33440.86,
+        "County_Rate_Per_100_000": 33548.39,
         "County_Deaths": 4,
-        "County_Pos_Cases": 311
+        "County_Pos_Cases": 312
       }
     },
     {
       "attributes": {
         "LABEL": "Otero",
         "County_Population": 18556,
-        "County_Rate_Per_100_000": 28696.92,
+        "County_Rate_Per_100_000": 28702.31,
         "County_Deaths": 137,
-        "County_Pos_Cases": 5325
+        "County_Pos_Cases": 5326
       }
     },
     {
       "attributes": {
         "LABEL": "Phillips",
         "County_Population": 4496,
-        "County_Rate_Per_100_000": 25000,
+        "County_Rate_Per_100_000": 25044.48,
         "County_Deaths": 20,
-        "County_Pos_Cases": 1124
+        "County_Pos_Cases": 1126
       }
     },
     {
@@ -391,18 +391,18 @@
       "attributes": {
         "LABEL": "Archuleta",
         "County_Population": 13802,
-        "County_Rate_Per_100_000": 25633.97,
+        "County_Rate_Per_100_000": 25641.21,
         "County_Deaths": 24,
-        "County_Pos_Cases": 3538
+        "County_Pos_Cases": 3539
       }
     },
     {
       "attributes": {
         "LABEL": "Routt",
         "County_Population": 25099,
-        "County_Rate_Per_100_000": 31467.39,
+        "County_Rate_Per_100_000": 31475.36,
         "County_Deaths": 34,
-        "County_Pos_Cases": 7898
+        "County_Pos_Cases": 7900
       }
     },
     {
@@ -418,18 +418,18 @@
       "attributes": {
         "LABEL": "Weld",
         "County_Population": 340131,
-        "County_Rate_Per_100_000": 31266.19,
+        "County_Rate_Per_100_000": 31279.71,
         "County_Deaths": 780,
-        "County_Pos_Cases": 106346
+        "County_Pos_Cases": 106392
       }
     },
     {
       "attributes": {
         "LABEL": "Larimer",
         "County_Population": 362773,
-        "County_Rate_Per_100_000": 30177.27,
+        "County_Rate_Per_100_000": 30196.29,
         "County_Deaths": 606,
-        "County_Pos_Cases": 109475
+        "County_Pos_Cases": 109544
       }
     },
     {
@@ -454,9 +454,9 @@
       "attributes": {
         "LABEL": "Gilpin",
         "County_Population": 5882,
-        "County_Rate_Per_100_000": 19959.2,
+        "County_Rate_Per_100_000": 19993.2,
         "County_Deaths": 7,
-        "County_Pos_Cases": 1174
+        "County_Pos_Cases": 1176
       }
     },
     {
@@ -481,63 +481,63 @@
       "attributes": {
         "LABEL": "Kit Carson",
         "County_Population": 6923,
-        "County_Rate_Per_100_000": 27126.97,
+        "County_Rate_Per_100_000": 27141.41,
         "County_Deaths": 32,
-        "County_Pos_Cases": 1878
+        "County_Pos_Cases": 1879
       }
     },
     {
       "attributes": {
         "LABEL": "Clear Creek",
         "County_Population": 9453,
-        "County_Rate_Per_100_000": 20437.96,
+        "County_Rate_Per_100_000": 20448.53,
         "County_Deaths": 13,
-        "County_Pos_Cases": 1932
+        "County_Pos_Cases": 1933
       }
     },
     {
       "attributes": {
         "LABEL": "Logan",
         "County_Population": 21441,
-        "County_Rate_Per_100_000": 40408.56,
+        "County_Rate_Per_100_000": 40417.89,
         "County_Deaths": 119,
-        "County_Pos_Cases": 8664
+        "County_Pos_Cases": 8666
       }
     },
     {
       "attributes": {
         "LABEL": "Washington",
         "County_Population": 4860,
-        "County_Rate_Per_100_000": 25946.5,
+        "County_Rate_Per_100_000": 25967.08,
         "County_Deaths": 35,
-        "County_Pos_Cases": 1261
+        "County_Pos_Cases": 1262
       }
     },
     {
       "attributes": {
         "LABEL": "Douglas",
         "County_Population": 369287,
-        "County_Rate_Per_100_000": 27365.44,
+        "County_Rate_Per_100_000": 27374.1,
         "County_Deaths": 501,
-        "County_Pos_Cases": 101057
+        "County_Pos_Cases": 101089
       }
     },
     {
       "attributes": {
         "LABEL": "Conejos",
         "County_Population": 7581,
-        "County_Rate_Per_100_000": 30391.77,
+        "County_Rate_Per_100_000": 30404.96,
         "County_Deaths": 58,
-        "County_Pos_Cases": 2304
+        "County_Pos_Cases": 2305
       }
     },
     {
       "attributes": {
         "LABEL": "El Paso",
         "County_Population": 738534,
-        "County_Rate_Per_100_000": 32145.85,
+        "County_Rate_Per_100_000": 32162.64,
         "County_Deaths": 1904,
-        "County_Pos_Cases": 237408
+        "County_Pos_Cases": 237532
       }
     },
     {
@@ -580,18 +580,18 @@
       "attributes": {
         "LABEL": "Elbert",
         "County_Population": 27120,
-        "County_Rate_Per_100_000": 21526.55,
+        "County_Rate_Per_100_000": 21541.3,
         "County_Deaths": 47,
-        "County_Pos_Cases": 5838
+        "County_Pos_Cases": 5842
       }
     },
     {
       "attributes": {
         "LABEL": "Mesa",
         "County_Population": 157320,
-        "County_Rate_Per_100_000": 32989.45,
+        "County_Rate_Per_100_000": 33003.43,
         "County_Deaths": 639,
-        "County_Pos_Cases": 51899
+        "County_Pos_Cases": 51921
       }
     },
     {
@@ -607,27 +607,27 @@
       "attributes": {
         "LABEL": "Arapahoe",
         "County_Population": 655580,
-        "County_Rate_Per_100_000": 30093.5,
+        "County_Rate_Per_100_000": 30108.91,
         "County_Deaths": 1369,
-        "County_Pos_Cases": 197287
+        "County_Pos_Cases": 197388
       }
     },
     {
       "attributes": {
         "LABEL": "Las Animas",
         "County_Population": 14637,
-        "County_Rate_Per_100_000": 30170.12,
+        "County_Rate_Per_100_000": 30217.94,
         "County_Deaths": 51,
-        "County_Pos_Cases": 4416
+        "County_Pos_Cases": 4423
       }
     },
     {
       "attributes": {
         "LABEL": "Grand",
         "County_Population": 15835,
-        "County_Rate_Per_100_000": 25658.35,
+        "County_Rate_Per_100_000": 25670.98,
         "County_Deaths": 30,
-        "County_Pos_Cases": 4063
+        "County_Pos_Cases": 4065
       }
     },
     {
