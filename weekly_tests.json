@@ -1,9 +1,422 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid URL",
-    "details": [
-      "Invalid URL"
-    ]
-  }
+  "objectIdFieldName": "ObjectId",
+  "uniqueIdField": {
+    "name": "ObjectId",
+    "isSystemMaintained": true
+  },
+  "globalIdFieldName": "",
+  "fields": [
+    {
+      "name": "weekyear",
+      "type": "esriFieldTypeInteger",
+      "alias": "weekyear",
+      "sqlType": "sqlTypeInteger",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "total_positive_covid_tests",
+      "type": "esriFieldTypeInteger",
+      "alias": "total_positive_covid_tests",
+      "sqlType": "sqlTypeInteger",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "total_covid_tests",
+      "type": "esriFieldTypeInteger",
+      "alias": "total_covid_tests",
+      "sqlType": "sqlTypeInteger",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "week_positivity",
+      "type": "esriFieldTypeDouble",
+      "alias": "week_positivity",
+      "sqlType": "sqlTypeFloat",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "week_start_date",
+      "type": "esriFieldTypeDate",
+      "alias": "week_start_date",
+      "sqlType": "sqlTypeTimestamp2",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "publish_date",
+      "type": "esriFieldTypeDate",
+      "alias": "publish_date",
+      "sqlType": "sqlTypeTimestamp2",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ObjectId",
+      "type": "esriFieldTypeOID",
+      "alias": "ObjectId",
+      "sqlType": "sqlTypeInteger",
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "weekyear": 12023,
+        "total_positive_covid_tests": 478,
+        "total_covid_tests": 5563,
+        "week_positivity": 0.086,
+        "week_start_date": 1672556400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 1
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 22023,
+        "total_positive_covid_tests": 329,
+        "total_covid_tests": 4725,
+        "week_positivity": 0.07,
+        "week_start_date": 1673161200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 2
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 32023,
+        "total_positive_covid_tests": 369,
+        "total_covid_tests": 4329,
+        "week_positivity": 0.085,
+        "week_start_date": 1673766000000,
+        "publish_date": 1684303200000,
+        "ObjectId": 3
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 42023,
+        "total_positive_covid_tests": 327,
+        "total_covid_tests": 4207,
+        "week_positivity": 0.078,
+        "week_start_date": 1674370800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 4
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 52023,
+        "total_positive_covid_tests": 325,
+        "total_covid_tests": 4016,
+        "week_positivity": 0.081,
+        "week_start_date": 1674975600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 5
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 62023,
+        "total_positive_covid_tests": 386,
+        "total_covid_tests": 4041,
+        "week_positivity": 0.096,
+        "week_start_date": 1675580400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 6
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 72023,
+        "total_positive_covid_tests": 373,
+        "total_covid_tests": 4026,
+        "week_positivity": 0.093,
+        "week_start_date": 1676185200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 7
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 82023,
+        "total_positive_covid_tests": 626,
+        "total_covid_tests": 5002,
+        "week_positivity": 0.125,
+        "week_start_date": 1676790000000,
+        "publish_date": 1684303200000,
+        "ObjectId": 8
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 92023,
+        "total_positive_covid_tests": 603,
+        "total_covid_tests": 5640,
+        "week_positivity": 0.107,
+        "week_start_date": 1677394800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 9
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 102023,
+        "total_positive_covid_tests": 564,
+        "total_covid_tests": 5407,
+        "week_positivity": 0.104,
+        "week_start_date": 1677999600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 10
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 112023,
+        "total_positive_covid_tests": 309,
+        "total_covid_tests": 3792,
+        "week_positivity": 0.081,
+        "week_start_date": 1678604400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 11
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 122023,
+        "total_positive_covid_tests": 543,
+        "total_covid_tests": 5177,
+        "week_positivity": 0.105,
+        "week_start_date": 1679205600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 12
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 132023,
+        "total_positive_covid_tests": 417,
+        "total_covid_tests": 4675,
+        "week_positivity": 0.089,
+        "week_start_date": 1679810400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 13
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 142023,
+        "total_positive_covid_tests": 371,
+        "total_covid_tests": 3993,
+        "week_positivity": 0.093,
+        "week_start_date": 1680415200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 14
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 152023,
+        "total_positive_covid_tests": 335,
+        "total_covid_tests": 3929,
+        "week_positivity": 0.085,
+        "week_start_date": 1681020000000,
+        "publish_date": 1684303200000,
+        "ObjectId": 15
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 162023,
+        "total_positive_covid_tests": 271,
+        "total_covid_tests": 3851,
+        "week_positivity": 0.07,
+        "week_start_date": 1681624800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 16
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 172023,
+        "total_positive_covid_tests": 242,
+        "total_covid_tests": 3334,
+        "week_positivity": 0.073,
+        "week_start_date": 1682229600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 17
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 182023,
+        "total_positive_covid_tests": 237,
+        "total_covid_tests": 3135,
+        "week_positivity": 0.076,
+        "week_start_date": 1682834400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 18
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 192023,
+        "total_positive_covid_tests": 186,
+        "total_covid_tests": 2865,
+        "week_positivity": 0.065,
+        "week_start_date": 1683439200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 19
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 402022,
+        "total_positive_covid_tests": 491,
+        "total_covid_tests": 4672,
+        "week_positivity": 0.105,
+        "week_start_date": 1664690400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 20
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 412022,
+        "total_positive_covid_tests": 534,
+        "total_covid_tests": 5097,
+        "week_positivity": 0.105,
+        "week_start_date": 1665295200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 21
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 422022,
+        "total_positive_covid_tests": 641,
+        "total_covid_tests": 5327,
+        "week_positivity": 0.12,
+        "week_start_date": 1665900000000,
+        "publish_date": 1684303200000,
+        "ObjectId": 22
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 432022,
+        "total_positive_covid_tests": 662,
+        "total_covid_tests": 5565,
+        "week_positivity": 0.119,
+        "week_start_date": 1666504800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 23
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 442022,
+        "total_positive_covid_tests": 840,
+        "total_covid_tests": 6207,
+        "week_positivity": 0.135,
+        "week_start_date": 1667109600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 24
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 452022,
+        "total_positive_covid_tests": 1029,
+        "total_covid_tests": 7374,
+        "week_positivity": 0.14,
+        "week_start_date": 1667714400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 25
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 462022,
+        "total_positive_covid_tests": 1100,
+        "total_covid_tests": 7995,
+        "week_positivity": 0.138,
+        "week_start_date": 1668322800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 26
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 472022,
+        "total_positive_covid_tests": 1103,
+        "total_covid_tests": 7936,
+        "week_positivity": 0.139,
+        "week_start_date": 1668927600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 27
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 482022,
+        "total_positive_covid_tests": 1084,
+        "total_covid_tests": 8612,
+        "week_positivity": 0.126,
+        "week_start_date": 1669532400000,
+        "publish_date": 1684303200000,
+        "ObjectId": 28
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 492022,
+        "total_positive_covid_tests": 947,
+        "total_covid_tests": 8408,
+        "week_positivity": 0.113,
+        "week_start_date": 1670137200000,
+        "publish_date": 1684303200000,
+        "ObjectId": 29
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 502022,
+        "total_positive_covid_tests": 811,
+        "total_covid_tests": 8194,
+        "week_positivity": 0.099,
+        "week_start_date": 1670742000000,
+        "publish_date": 1684303200000,
+        "ObjectId": 30
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 512022,
+        "total_positive_covid_tests": 627,
+        "total_covid_tests": 7047,
+        "week_positivity": 0.089,
+        "week_start_date": 1671346800000,
+        "publish_date": 1684303200000,
+        "ObjectId": 31
+      }
+    },
+    {
+      "attributes": {
+        "weekyear": 522022,
+        "total_positive_covid_tests": 572,
+        "total_covid_tests": 6974,
+        "week_positivity": 0.082,
+        "week_start_date": 1671951600000,
+        "publish_date": 1684303200000,
+        "ObjectId": 32
+      }
+    }
+  ]
 }
