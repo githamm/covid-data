@@ -82,168 +82,12 @@
       "attributes": {
         "section": "Case Summary",
         "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Cheyenne County",
-        "value": 699.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12424
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "San Miguel County",
-        "value": 2738,
-        "publish_date": 1687327200000,
-        "ObjectId": 12425
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Mineral County",
-        "value": 33945.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12426
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Clear Creek County",
-        "value": 1946,
-        "publish_date": 1687327200000,
-        "ObjectId": 12459
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
         "description": "Deaths Among COVID-19 Cases in Colorado by County",
         "date": null,
-        "metric": "Grand County",
-        "value": 30,
-        "publish_date": 1687327200000,
-        "ObjectId": 12460
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Adams County",
-        "value": 168146,
-        "publish_date": 1687327200000,
-        "ObjectId": 12468
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Alamosa County",
-        "value": 6074,
-        "publish_date": 1687327200000,
-        "ObjectId": 12469
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Arapahoe County",
-        "value": 199383,
-        "publish_date": 1687327200000,
-        "ObjectId": 12470
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Archuleta County",
-        "value": 3611,
-        "publish_date": 1687327200000,
-        "ObjectId": 12471
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Baca County",
-        "value": 1085,
-        "publish_date": 1687327200000,
-        "ObjectId": 12472
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Bent County",
-        "value": 3029,
-        "publish_date": 1687327200000,
-        "ObjectId": 12473
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Boulder County",
-        "value": 92491,
-        "publish_date": 1687327200000,
-        "ObjectId": 12474
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Broomfield County",
-        "value": 18624,
-        "publish_date": 1687327200000,
-        "ObjectId": 12475
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Chaffee County",
-        "value": 5724,
-        "publish_date": 1687327200000,
-        "ObjectId": 12476
+        "metric": "Gilpin County",
+        "value": 7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12451
       }
     },
     {
@@ -254,32 +98,8 @@
         "date": null,
         "metric": "Cheyenne County",
         "value": 395,
-        "publish_date": 1687327200000,
-        "ObjectId": 12477
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Gunnison County",
-        "value": 16,
-        "publish_date": 1687327200000,
-        "ObjectId": 12479
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Colorado",
-        "value": 1787887,
-        "publish_date": 1687327200000,
-        "ObjectId": 12480
+        "publish_date": 1687932000000,
+        "ObjectId": 12453
       }
     },
     {
@@ -287,2531 +107,11 @@
         "section": "Case Summary",
         "category": "Maps",
         "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Moffat County",
-        "value": 28791.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12481
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Sedgwick County",
-        "value": 590,
-        "publish_date": 1687327200000,
-        "ObjectId": 12482
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Clear Creek County",
-        "value": 137.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12483
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Conejos County",
-        "value": 2347,
-        "publish_date": 1687327200000,
-        "ObjectId": 12484
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Colorado",
-        "value": 251.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12486
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Montezuma County",
-        "value": 29802.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12487
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Costilla County",
-        "value": 992,
-        "publish_date": 1687327200000,
-        "ObjectId": 12488
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Summit County",
-        "value": 12110,
-        "publish_date": 1687327200000,
-        "ObjectId": 12489
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Conejos County",
-        "value": 791.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12492
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Montrose County",
-        "value": 26404,
-        "publish_date": 1687327200000,
-        "ObjectId": 12493
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Hinsdale County",
-        "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12494
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Crowley County",
-        "value": 3564,
-        "publish_date": 1687327200000,
-        "ObjectId": 12495
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Teller County",
-        "value": 6009,
-        "publish_date": 1687327200000,
-        "ObjectId": 12496
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Costilla County",
-        "value": 524.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12499
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Custer County",
-        "value": 849,
-        "publish_date": 1687327200000,
-        "ObjectId": 12500
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Morgan County",
-        "value": 24489.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12501
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Delta County",
-        "value": 7358,
-        "publish_date": 1687327200000,
-        "ObjectId": 12502
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Huerfano County",
-        "value": 42,
-        "publish_date": 1687327200000,
-        "ObjectId": 12503
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Crowley County",
-        "value": 548.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12504
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": 2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12506
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Otero County",
-        "value": 29329,
-        "publish_date": 1687327200000,
-        "ObjectId": 12507
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Denver County",
-        "value": 227663,
-        "publish_date": 1687327200000,
-        "ObjectId": 12508
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Washington County",
-        "value": 1270,
-        "publish_date": 1687327200000,
-        "ObjectId": 12510
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Dolores County",
-        "value": 427,
-        "publish_date": 1687327200000,
-        "ObjectId": 12511
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Custer County",
-        "value": 455.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12513
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Ouray County",
-        "value": 22413.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12515
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": 2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12516
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Weld County",
-        "value": 107726,
-        "publish_date": 1687327200000,
-        "ObjectId": 12517
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Douglas County",
-        "value": 102026,
-        "publish_date": 1687327200000,
-        "ObjectId": 12518
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Delta County",
-        "value": 539.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12520
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Park County",
-        "value": 19928.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12522
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Jackson County",
-        "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12523
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Yuma County",
-        "value": 2366,
-        "publish_date": 1687327200000,
-        "ObjectId": 12524
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Eagle County",
-        "value": 18971,
-        "publish_date": 1687327200000,
-        "ObjectId": 12525
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Denver County",
-        "value": 220.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12527
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Phillips County",
-        "value": 25277.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12529
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Jefferson County",
-        "value": 1604,
-        "publish_date": 1687327200000,
-        "ObjectId": 12530
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Adams County",
-        "value": 32180.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12531
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "El Paso County",
-        "value": 240603,
-        "publish_date": 1687327200000,
-        "ObjectId": 12532
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Dolores County",
-        "value": 375.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12534
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Douglas County",
-        "value": 142.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12535
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Eagle County",
-        "value": 73.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12536
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "El Paso County",
-        "value": 264.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12537
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Elbert County",
-        "value": 173.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12538
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Fremont County",
-        "value": 437.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12539
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Garfield County",
-        "value": 177,
-        "publish_date": 1687327200000,
-        "ObjectId": 12540
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Gilpin County",
-        "value": 119,
-        "publish_date": 1687327200000,
-        "ObjectId": 12541
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Grand County",
-        "value": 189.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12542
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Gunnison County",
-        "value": 92.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12543
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Hinsdale County",
-        "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12544
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Huerfano County",
-        "value": 604.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12545
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12546
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12547
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Jackson County",
-        "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12548
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Jefferson County",
-        "value": 276.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12549
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Kiowa County",
-        "value": 482.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12550
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Kit Carson County",
-        "value": 476.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12551
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "La Plata County",
-        "value": 191.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12552
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Lake County",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12553
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Larimer County",
-        "value": 173.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12554
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Las Animas County",
-        "value": 369,
-        "publish_date": 1687327200000,
-        "ObjectId": 12555
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Lincoln County",
-        "value": 211.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12556
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Logan County",
-        "value": 569,
-        "publish_date": 1687327200000,
-        "ObjectId": 12557
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Mesa County",
-        "value": 417.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12558
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Mineral County",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12559
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Moffat County",
-        "value": 425.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12560
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Montezuma County",
-        "value": 373.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12561
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Montrose County",
-        "value": 440,
-        "publish_date": 1687327200000,
-        "ObjectId": 12562
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Morgan County",
-        "value": 531.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12563
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Otero County",
-        "value": 738.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12564
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Ouray County",
-        "value": 118.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12565
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Park County",
-        "value": 135.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12566
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Phillips County",
-        "value": 466.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12567
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Pitkin County",
-        "value": 51.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12568
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Prowers County",
-        "value": 442.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12569
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Pueblo County",
-        "value": 529.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12570
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Rio Blanco County",
-        "value": 247.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12571
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Rio Grande County",
-        "value": 421.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12572
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Routt County",
-        "value": 135.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12573
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Saguache County",
-        "value": 215.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12574
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Elbert County",
-        "value": 5888,
-        "publish_date": 1687327200000,
-        "ObjectId": 12575
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Pitkin County",
-        "value": 46770.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12577
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Fremont County",
-        "value": 19094,
-        "publish_date": 1687327200000,
-        "ObjectId": 12580
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Kiowa County",
-        "value": 7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12581
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Alamosa County",
-        "value": 36776.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12583
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Kit Carson County",
-        "value": 33,
-        "publish_date": 1687327200000,
-        "ObjectId": 12584
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Prowers County",
-        "value": 27575.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12586
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Garfield County",
-        "value": 18184,
-        "publish_date": 1687327200000,
-        "ObjectId": 12587
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Arapahoe County",
-        "value": 30413.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12589
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "La Plata County",
-        "value": 108,
-        "publish_date": 1687327200000,
-        "ObjectId": 12590
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Pueblo County",
-        "value": 37241.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12592
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Gilpin County",
-        "value": 1186,
-        "publish_date": 1687327200000,
-        "ObjectId": 12593
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Archuleta County",
-        "value": 26155.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12595
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Lake County",
-        "value": 2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12596
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Rio Blanco County",
-        "value": 34932.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12598
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Grand County",
-        "value": 4082,
-        "publish_date": 1687327200000,
-        "ObjectId": 12599
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Baca County",
-        "value": 31097.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12601
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Larimer County",
-        "value": 629,
-        "publish_date": 1687327200000,
-        "ObjectId": 12602
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Las Animas County",
-        "value": 54,
-        "publish_date": 1687327200000,
-        "ObjectId": 12603
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Lincoln County",
-        "value": 12,
-        "publish_date": 1687327200000,
-        "ObjectId": 12604
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Logan County",
-        "value": 122,
-        "publish_date": 1687327200000,
-        "ObjectId": 12605
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Mesa County",
-        "value": 657,
-        "publish_date": 1687327200000,
-        "ObjectId": 12606
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Mineral County",
-        "value": 4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12607
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Moffat County",
-        "value": 56,
-        "publish_date": 1687327200000,
-        "ObjectId": 12608
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Montezuma County",
-        "value": 98,
-        "publish_date": 1687327200000,
-        "ObjectId": 12609
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Montrose County",
-        "value": 190,
-        "publish_date": 1687327200000,
-        "ObjectId": 12610
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Morgan County",
-        "value": 154,
-        "publish_date": 1687327200000,
-        "ObjectId": 12611
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Otero County",
-        "value": 137,
-        "publish_date": 1687327200000,
-        "ObjectId": 12612
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Ouray County",
-        "value": 6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12613
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Park County",
-        "value": 24,
-        "publish_date": 1687327200000,
-        "ObjectId": 12614
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Phillips County",
-        "value": 21,
-        "publish_date": 1687327200000,
-        "ObjectId": 12615
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Pitkin County",
-        "value": 9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12616
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Prowers County",
-        "value": 53,
-        "publish_date": 1687327200000,
-        "ObjectId": 12617
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Pueblo County",
-        "value": 897,
-        "publish_date": 1687327200000,
-        "ObjectId": 12618
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Rio Blanco County",
-        "value": 16,
-        "publish_date": 1687327200000,
-        "ObjectId": 12619
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Rio Grande County",
-        "value": 48,
-        "publish_date": 1687327200000,
-        "ObjectId": 12620
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Routt County",
-        "value": 34,
-        "publish_date": 1687327200000,
-        "ObjectId": 12621
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Saguache County",
-        "value": 14,
-        "publish_date": 1687327200000,
-        "ObjectId": 12622
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "San Juan County",
-        "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12623
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "San Miguel County",
-        "value": 10,
-        "publish_date": 1687327200000,
-        "ObjectId": 12624
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Sedgwick County",
-        "value": 12,
-        "publish_date": 1687327200000,
-        "ObjectId": 12625
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Summit County",
-        "value": 15,
-        "publish_date": 1687327200000,
-        "ObjectId": 12626
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Teller County",
-        "value": 70,
-        "publish_date": 1687327200000,
-        "ObjectId": 12627
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Washington County",
-        "value": 36,
-        "publish_date": 1687327200000,
-        "ObjectId": 12628
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Weld County",
-        "value": 799,
-        "publish_date": 1687327200000,
-        "ObjectId": 12629
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Yuma County",
-        "value": 28,
-        "publish_date": 1687327200000,
-        "ObjectId": 12630
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Adams County",
-        "value": 288,
-        "publish_date": 1687327200000,
-        "ObjectId": 12631
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Alamosa County",
-        "value": 417.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12632
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Arapahoe County",
-        "value": 216.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12633
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Archuleta County",
-        "value": 181.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12634
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Baca County",
-        "value": 544.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12635
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Bent County",
-        "value": 891.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12636
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Boulder County",
-        "value": 144,
-        "publish_date": 1687327200000,
-        "ObjectId": 12637
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Broomfield County",
-        "value": 183.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12638
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Chaffee County",
-        "value": 288.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12639
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Rio Grande County",
-        "value": 33271.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12641
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Routt County",
-        "value": 31739.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12645
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Saguache County",
-        "value": 24092.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12648
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Gunnison County",
-        "value": 3996,
-        "publish_date": 1687327200000,
-        "ObjectId": 12651
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "San Juan County",
-        "value": 42240.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12652
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Hinsdale County",
-        "value": 163,
-        "publish_date": 1687327200000,
-        "ObjectId": 12655
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "San Miguel County",
-        "value": 33902.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12656
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Huerfano County",
-        "value": 1803,
-        "publish_date": 1687327200000,
-        "ObjectId": 12659
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Sedgwick County",
-        "value": 25311,
-        "publish_date": 1687327200000,
-        "ObjectId": 12660
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": 274,
-        "publish_date": 1687327200000,
-        "ObjectId": 12663
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Summit County",
-        "value": 39102.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12664
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": 274,
-        "publish_date": 1687327200000,
-        "ObjectId": 12667
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Teller County",
-        "value": 24113.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12668
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Jackson County",
-        "value": 197,
-        "publish_date": 1687327200000,
-        "ObjectId": 12671
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Washington County",
-        "value": 26104.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12672
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Jefferson County",
-        "value": 162765,
-        "publish_date": 1687327200000,
-        "ObjectId": 12673
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Kiowa County",
-        "value": 394,
-        "publish_date": 1687327200000,
-        "ObjectId": 12675
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Weld County",
-        "value": 31671.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12677
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Kit Carson County",
-        "value": 1883,
-        "publish_date": 1687327200000,
-        "ObjectId": 12679
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "La Plata County",
-        "value": 16086,
-        "publish_date": 1687327200000,
-        "ObjectId": 12681
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Yuma County",
-        "value": 23786.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12682
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Lake County",
-        "value": 2219,
-        "publish_date": 1687327200000,
-        "ObjectId": 12685
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Adams County",
-        "value": 1505,
-        "publish_date": 1687327200000,
-        "ObjectId": 12686
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Bent County",
-        "value": 52936,
-        "publish_date": 1687327200000,
-        "ObjectId": 12687
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Larimer County",
-        "value": 111237,
-        "publish_date": 1687327200000,
-        "ObjectId": 12688
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Las Animas County",
-        "value": 4510,
-        "publish_date": 1687327200000,
-        "ObjectId": 12691
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Boulder County",
-        "value": 28045.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12692
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Alamosa County",
-        "value": 69,
-        "publish_date": 1687327200000,
-        "ObjectId": 12694
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Lincoln County",
-        "value": 2386,
-        "publish_date": 1687327200000,
-        "ObjectId": 12696
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Broomfield County",
-        "value": 24712.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12697
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Arapahoe County",
-        "value": 1419,
-        "publish_date": 1687327200000,
-        "ObjectId": 12699
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Logan County",
-        "value": 8696,
-        "publish_date": 1687327200000,
-        "ObjectId": 12701
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Chaffee County",
-        "value": 28479,
-        "publish_date": 1687327200000,
-        "ObjectId": 12702
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Archuleta County",
-        "value": 25,
-        "publish_date": 1687327200000,
-        "ObjectId": 12703
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Mesa County",
-        "value": 52639,
-        "publish_date": 1687327200000,
-        "ObjectId": 12705
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Cheyenne County",
-        "value": 23032.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12706
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Baca County",
-        "value": 19,
-        "publish_date": 1687327200000,
-        "ObjectId": 12707
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Clear Creek County",
-        "value": 20594.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12709
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Mineral County",
-        "value": 314,
-        "publish_date": 1687327200000,
-        "ObjectId": 12710
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Bent County",
-        "value": 51,
-        "publish_date": 1687327200000,
-        "ObjectId": 12712
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Colorado",
-        "value": 30747.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12713
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Moffat County",
-        "value": 3789,
-        "publish_date": 1687327200000,
-        "ObjectId": 12714
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Boulder County",
-        "value": 475,
-        "publish_date": 1687327200000,
-        "ObjectId": 12716
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Conejos County",
-        "value": 30946.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12717
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Montezuma County",
-        "value": 7817,
-        "publish_date": 1687327200000,
-        "ObjectId": 12718
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Broomfield County",
-        "value": 138,
-        "publish_date": 1687327200000,
-        "ObjectId": 12720
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Costilla County",
-        "value": 27403.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12721
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Montrose County",
-        "value": 11401,
-        "publish_date": 1687327200000,
-        "ObjectId": 12722
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Chaffee County",
-        "value": 58,
-        "publish_date": 1687327200000,
-        "ObjectId": 12724
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Crowley County",
-        "value": 59242,
-        "publish_date": 1687327200000,
-        "ObjectId": 12725
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Morgan County",
-        "value": 7097,
-        "publish_date": 1687327200000,
-        "ObjectId": 12726
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Cheyenne County",
-        "value": 12,
-        "publish_date": 1687327200000,
-        "ObjectId": 12728
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Custer County",
-        "value": 16811.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12729
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Otero County",
-        "value": 5442,
-        "publish_date": 1687327200000,
-        "ObjectId": 12730
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Clear Creek County",
-        "value": 13,
-        "publish_date": 1687327200000,
-        "ObjectId": 12732
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Delta County",
-        "value": 23231.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12733
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Ouray County",
-        "value": 1131,
-        "publish_date": 1687327200000,
-        "ObjectId": 12734
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Colorado",
-        "value": 14616,
-        "publish_date": 1687327200000,
-        "ObjectId": 12736
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Denver County",
-        "value": 31976.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12737
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Park County",
-        "value": 3531,
-        "publish_date": 1687327200000,
-        "ObjectId": 12738
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Deaths Among COVID-19 Cases in Colorado by County",
-        "date": null,
-        "metric": "Conejos County",
-        "value": 60,
-        "publish_date": 1687327200000,
-        "ObjectId": 12740
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Dolores County",
-        "value": 20046.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12741
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Phillips County",
-        "value": 1137,
-        "publish_date": 1687327200000,
-        "ObjectId": 12742
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Pitkin County",
-        "value": 8104,
-        "publish_date": 1687327200000,
-        "ObjectId": 12756
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Douglas County",
-        "value": 27627.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12757
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Prowers County",
-        "value": 3303,
-        "publish_date": 1687327200000,
-        "ObjectId": 12758
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Pueblo County",
-        "value": 63126,
-        "publish_date": 1687327200000,
-        "ObjectId": 12759
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Eagle County",
-        "value": 34058.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12760
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Rio Blanco County",
-        "value": 2257,
-        "publish_date": 1687327200000,
-        "ObjectId": 12761
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "El Paso County",
-        "value": 32578.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12762
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Rio Grande County",
-        "value": 3793,
-        "publish_date": 1687327200000,
-        "ObjectId": 12763
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Elbert County",
-        "value": 21708.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12764
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Routt County",
-        "value": 7966,
-        "publish_date": 1687327200000,
-        "ObjectId": 12765
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Fremont County",
-        "value": 38468,
-        "publish_date": 1687327200000,
-        "ObjectId": 12766
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Cases of COVID-19 in Colorado by County",
-        "date": null,
-        "metric": "Saguache County",
-        "value": 1567,
-        "publish_date": 1687327200000,
-        "ObjectId": 12767
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Garfield County",
-        "value": 29258.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12768
+        "value": 33474.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12454
       }
     },
     {
@@ -2822,8 +122,476 @@
         "date": null,
         "metric": "San Juan County",
         "value": 313,
-        "publish_date": 1687327200000,
-        "ObjectId": 12769
+        "publish_date": 1687932000000,
+        "ObjectId": 12455
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Mineral County",
+        "value": 33945.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12456
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Moffat County",
+        "value": 28807,
+        "publish_date": 1687932000000,
+        "ObjectId": 12457
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Montezuma County",
+        "value": 29825.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12458
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Montrose County",
+        "value": 26413.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12459
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Morgan County",
+        "value": 24492.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12460
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Otero County",
+        "value": 29329,
+        "publish_date": 1687932000000,
+        "ObjectId": 12461
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Ouray County",
+        "value": 22413.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12462
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Park County",
+        "value": 19945.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12463
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Phillips County",
+        "value": 25277.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12464
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Pitkin County",
+        "value": 46770.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12465
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Prowers County",
+        "value": 27583.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12466
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Pueblo County",
+        "value": 37257.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12467
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Rio Blanco County",
+        "value": 34917.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12468
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Rio Grande County",
+        "value": 33280.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12469
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Routt County",
+        "value": 31779.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12470
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Saguache County",
+        "value": 24108.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12471
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "San Juan County",
+        "value": 42240.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12472
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "San Miguel County",
+        "value": 33915.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12473
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Sedgwick County",
+        "value": 25311,
+        "publish_date": 1687932000000,
+        "ObjectId": 12474
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Summit County",
+        "value": 39105.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12475
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Teller County",
+        "value": 24121.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12476
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Washington County",
+        "value": 26104.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12477
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Weld County",
+        "value": 31680.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12478
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Yuma County",
+        "value": 23786.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12479
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Adams County",
+        "value": 1506,
+        "publish_date": 1687932000000,
+        "ObjectId": 12480
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Alamosa County",
+        "value": 69,
+        "publish_date": 1687932000000,
+        "ObjectId": 12481
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Arapahoe County",
+        "value": 1421,
+        "publish_date": 1687932000000,
+        "ObjectId": 12482
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Archuleta County",
+        "value": 25,
+        "publish_date": 1687932000000,
+        "ObjectId": 12483
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Baca County",
+        "value": 20,
+        "publish_date": 1687932000000,
+        "ObjectId": 12484
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Bent County",
+        "value": 51,
+        "publish_date": 1687932000000,
+        "ObjectId": 12485
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Boulder County",
+        "value": 476,
+        "publish_date": 1687932000000,
+        "ObjectId": 12486
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Broomfield County",
+        "value": 139,
+        "publish_date": 1687932000000,
+        "ObjectId": 12487
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Chaffee County",
+        "value": 58,
+        "publish_date": 1687932000000,
+        "ObjectId": 12488
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Cheyenne County",
+        "value": 12,
+        "publish_date": 1687932000000,
+        "ObjectId": 12489
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Clear Creek County",
+        "value": 13,
+        "publish_date": 1687932000000,
+        "ObjectId": 12490
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Colorado",
+        "value": 14633,
+        "publish_date": 1687932000000,
+        "ObjectId": 12491
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Grand County",
+        "value": 30,
+        "publish_date": 1687932000000,
+        "ObjectId": 12492
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Clear Creek County",
+        "value": 1945,
+        "publish_date": 1687932000000,
+        "ObjectId": 12493
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Conejos County",
+        "value": 60,
+        "publish_date": 1687932000000,
+        "ObjectId": 12494
       }
     },
     {
@@ -2834,20 +602,8 @@
         "date": null,
         "metric": "Costilla County",
         "value": 19,
-        "publish_date": 1687327200000,
-        "ObjectId": 12770
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Gilpin County",
-        "value": 20156.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12771
+        "publish_date": 1687932000000,
+        "ObjectId": 12495
       }
     },
     {
@@ -2858,20 +614,8 @@
         "date": null,
         "metric": "Crowley County",
         "value": 33,
-        "publish_date": 1687327200000,
-        "ObjectId": 12772
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Grand County",
-        "value": 25773.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12773
+        "publish_date": 1687932000000,
+        "ObjectId": 12496
       }
     },
     {
@@ -2882,20 +626,8 @@
         "date": null,
         "metric": "Custer County",
         "value": 23,
-        "publish_date": 1687327200000,
-        "ObjectId": 12774
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Gunnison County",
-        "value": 23100.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12775
+        "publish_date": 1687932000000,
+        "ObjectId": 12497
       }
     },
     {
@@ -2906,8 +638,8 @@
         "date": null,
         "metric": "Delta County",
         "value": 171,
-        "publish_date": 1687327200000,
-        "ObjectId": 12776
+        "publish_date": 1687932000000,
+        "ObjectId": 12498
       }
     },
     {
@@ -2918,20 +650,8 @@
         "date": null,
         "metric": "Denver County",
         "value": 1567,
-        "publish_date": 1687327200000,
-        "ObjectId": 12777
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Hinsdale County",
-        "value": 20978.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12778
+        "publish_date": 1687932000000,
+        "ObjectId": 12499
       }
     },
     {
@@ -2942,20 +662,8 @@
         "date": null,
         "metric": "Dolores County",
         "value": 8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12779
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Huerfano County",
-        "value": 25961.1,
-        "publish_date": 1687327200000,
-        "ObjectId": 12780
+        "publish_date": 1687932000000,
+        "ObjectId": 12500
       }
     },
     {
@@ -2965,21 +673,9 @@
         "description": "Deaths Among COVID-19 Cases in Colorado by County",
         "date": null,
         "metric": "Douglas County",
-        "value": 525,
-        "publish_date": 1687327200000,
-        "ObjectId": 12781
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12782
+        "value": 526,
+        "publish_date": 1687932000000,
+        "ObjectId": 12501
       }
     },
     {
@@ -2990,20 +686,8 @@
         "date": null,
         "metric": "Eagle County",
         "value": 41,
-        "publish_date": 1687327200000,
-        "ObjectId": 12783
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "International",
-        "value": null,
-        "publish_date": 1687327200000,
-        "ObjectId": 12784
+        "publish_date": 1687932000000,
+        "ObjectId": 12502
       }
     },
     {
@@ -3013,21 +697,9 @@
         "description": "Deaths Among COVID-19 Cases in Colorado by County",
         "date": null,
         "metric": "El Paso County",
-        "value": 1955,
-        "publish_date": 1687327200000,
-        "ObjectId": 12785
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Jackson County",
-        "value": 14517.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12786
+        "value": 1957,
+        "publish_date": 1687932000000,
+        "ObjectId": 12503
       }
     },
     {
@@ -3038,20 +710,8 @@
         "date": null,
         "metric": "Elbert County",
         "value": 47,
-        "publish_date": 1687327200000,
-        "ObjectId": 12787
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Jefferson County",
-        "value": 28079.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12788
+        "publish_date": 1687932000000,
+        "ObjectId": 12504
       }
     },
     {
@@ -3062,20 +722,8 @@
         "date": null,
         "metric": "Fremont County",
         "value": 217,
-        "publish_date": 1687327200000,
-        "ObjectId": 12789
-      }
-    },
-    {
-      "attributes": {
-        "section": "Case Summary",
-        "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
-        "date": null,
-        "metric": "Kiowa County",
-        "value": 27135,
-        "publish_date": 1687327200000,
-        "ObjectId": 12790
+        "publish_date": 1687932000000,
+        "ObjectId": 12505
       }
     },
     {
@@ -3086,8 +734,1664 @@
         "date": null,
         "metric": "Garfield County",
         "value": 110,
-        "publish_date": 1687327200000,
-        "ObjectId": 12791
+        "publish_date": 1687932000000,
+        "ObjectId": 12506
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "San Miguel County",
+        "value": 2739,
+        "publish_date": 1687932000000,
+        "ObjectId": 12510
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Gunnison County",
+        "value": 16,
+        "publish_date": 1687932000000,
+        "ObjectId": 12511
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Colorado",
+        "value": 1788676,
+        "publish_date": 1687932000000,
+        "ObjectId": 12512
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Sedgwick County",
+        "value": 590,
+        "publish_date": 1687932000000,
+        "ObjectId": 12514
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Hinsdale County",
+        "value": 0,
+        "publish_date": 1687932000000,
+        "ObjectId": 12515
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Conejos County",
+        "value": 2348,
+        "publish_date": 1687932000000,
+        "ObjectId": 12517
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Summit County",
+        "value": 12111,
+        "publish_date": 1687932000000,
+        "ObjectId": 12519
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Huerfano County",
+        "value": 42,
+        "publish_date": 1687932000000,
+        "ObjectId": 12520
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Costilla County",
+        "value": 993,
+        "publish_date": 1687932000000,
+        "ObjectId": 12522
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Teller County",
+        "value": 6011,
+        "publish_date": 1687932000000,
+        "ObjectId": 12524
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": 2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12525
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Crowley County",
+        "value": 3565,
+        "publish_date": 1687932000000,
+        "ObjectId": 12527
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Washington County",
+        "value": 1270,
+        "publish_date": 1687932000000,
+        "ObjectId": 12529
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": 2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12530
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Custer County",
+        "value": 849,
+        "publish_date": 1687932000000,
+        "ObjectId": 12532
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Delta County",
+        "value": 7360,
+        "publish_date": 1687932000000,
+        "ObjectId": 12533
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Denver County",
+        "value": 227774,
+        "publish_date": 1687932000000,
+        "ObjectId": 12534
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Dolores County",
+        "value": 427,
+        "publish_date": 1687932000000,
+        "ObjectId": 12535
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Douglas County",
+        "value": 102072,
+        "publish_date": 1687932000000,
+        "ObjectId": 12536
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Eagle County",
+        "value": 18975,
+        "publish_date": 1687932000000,
+        "ObjectId": 12537
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "El Paso County",
+        "value": 240710,
+        "publish_date": 1687932000000,
+        "ObjectId": 12538
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Elbert County",
+        "value": 5890,
+        "publish_date": 1687932000000,
+        "ObjectId": 12539
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Fremont County",
+        "value": 19100,
+        "publish_date": 1687932000000,
+        "ObjectId": 12540
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Garfield County",
+        "value": 18187,
+        "publish_date": 1687932000000,
+        "ObjectId": 12541
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Gilpin County",
+        "value": 1188,
+        "publish_date": 1687932000000,
+        "ObjectId": 12542
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Grand County",
+        "value": 4083,
+        "publish_date": 1687932000000,
+        "ObjectId": 12543
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Gunnison County",
+        "value": 3997,
+        "publish_date": 1687932000000,
+        "ObjectId": 12544
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Hinsdale County",
+        "value": 165,
+        "publish_date": 1687932000000,
+        "ObjectId": 12545
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Huerfano County",
+        "value": 1805,
+        "publish_date": 1687932000000,
+        "ObjectId": 12546
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": 274,
+        "publish_date": 1687932000000,
+        "ObjectId": 12547
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": 274,
+        "publish_date": 1687932000000,
+        "ObjectId": 12548
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Jackson County",
+        "value": 197,
+        "publish_date": 1687932000000,
+        "ObjectId": 12549
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Jefferson County",
+        "value": 162831,
+        "publish_date": 1687932000000,
+        "ObjectId": 12550
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Kiowa County",
+        "value": 395,
+        "publish_date": 1687932000000,
+        "ObjectId": 12551
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Kit Carson County",
+        "value": 1885,
+        "publish_date": 1687932000000,
+        "ObjectId": 12552
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "La Plata County",
+        "value": 16089,
+        "publish_date": 1687932000000,
+        "ObjectId": 12553
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Lake County",
+        "value": 2222,
+        "publish_date": 1687932000000,
+        "ObjectId": 12554
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Larimer County",
+        "value": 111290,
+        "publish_date": 1687932000000,
+        "ObjectId": 12555
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Las Animas County",
+        "value": 4507,
+        "publish_date": 1687932000000,
+        "ObjectId": 12556
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Lincoln County",
+        "value": 2386,
+        "publish_date": 1687932000000,
+        "ObjectId": 12557
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Logan County",
+        "value": 8697,
+        "publish_date": 1687932000000,
+        "ObjectId": 12558
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Mesa County",
+        "value": 52663,
+        "publish_date": 1687932000000,
+        "ObjectId": 12559
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Mineral County",
+        "value": 314,
+        "publish_date": 1687932000000,
+        "ObjectId": 12560
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Moffat County",
+        "value": 3791,
+        "publish_date": 1687932000000,
+        "ObjectId": 12561
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Montezuma County",
+        "value": 7823,
+        "publish_date": 1687932000000,
+        "ObjectId": 12562
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Montrose County",
+        "value": 11405,
+        "publish_date": 1687932000000,
+        "ObjectId": 12563
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Morgan County",
+        "value": 7098,
+        "publish_date": 1687932000000,
+        "ObjectId": 12564
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Otero County",
+        "value": 5442,
+        "publish_date": 1687932000000,
+        "ObjectId": 12565
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Ouray County",
+        "value": 1131,
+        "publish_date": 1687932000000,
+        "ObjectId": 12566
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Park County",
+        "value": 3534,
+        "publish_date": 1687932000000,
+        "ObjectId": 12567
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Phillips County",
+        "value": 1137,
+        "publish_date": 1687932000000,
+        "ObjectId": 12568
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Pitkin County",
+        "value": 8104,
+        "publish_date": 1687932000000,
+        "ObjectId": 12569
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Prowers County",
+        "value": 3304,
+        "publish_date": 1687932000000,
+        "ObjectId": 12570
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Pueblo County",
+        "value": 63154,
+        "publish_date": 1687932000000,
+        "ObjectId": 12571
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Rio Blanco County",
+        "value": 2256,
+        "publish_date": 1687932000000,
+        "ObjectId": 12572
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Rio Grande County",
+        "value": 3794,
+        "publish_date": 1687932000000,
+        "ObjectId": 12573
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Routt County",
+        "value": 7976,
+        "publish_date": 1687932000000,
+        "ObjectId": 12574
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Saguache County",
+        "value": 1568,
+        "publish_date": 1687932000000,
+        "ObjectId": 12575
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Jackson County",
+        "value": 0,
+        "publish_date": 1687932000000,
+        "ObjectId": 12577
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Weld County",
+        "value": 107756,
+        "publish_date": 1687932000000,
+        "ObjectId": 12578
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Yuma County",
+        "value": 2366,
+        "publish_date": 1687932000000,
+        "ObjectId": 12580
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Adams County",
+        "value": 32190.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12583
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Jefferson County",
+        "value": 1608,
+        "publish_date": 1687932000000,
+        "ObjectId": 12586
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Alamosa County",
+        "value": 36812.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12587
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Kiowa County",
+        "value": 7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12590
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Arapahoe County",
+        "value": 30434.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12591
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Kit Carson County",
+        "value": 33,
+        "publish_date": 1687932000000,
+        "ObjectId": 12594
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Archuleta County",
+        "value": 26162.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12595
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "La Plata County",
+        "value": 108,
+        "publish_date": 1687932000000,
+        "ObjectId": 12598
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Baca County",
+        "value": 31126.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12599
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Lake County",
+        "value": 2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12602
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Bent County",
+        "value": 52971,
+        "publish_date": 1687932000000,
+        "ObjectId": 12604
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Larimer County",
+        "value": 630,
+        "publish_date": 1687932000000,
+        "ObjectId": 12607
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Boulder County",
+        "value": 28054.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12609
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Las Animas County",
+        "value": 55,
+        "publish_date": 1687932000000,
+        "ObjectId": 12611
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Broomfield County",
+        "value": 24737.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12615
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Lincoln County",
+        "value": 12,
+        "publish_date": 1687932000000,
+        "ObjectId": 12616
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Chaffee County",
+        "value": 28498.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12620
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Logan County",
+        "value": 122,
+        "publish_date": 1687932000000,
+        "ObjectId": 12621
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Cheyenne County",
+        "value": 23032.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12625
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Mesa County",
+        "value": 657,
+        "publish_date": 1687932000000,
+        "ObjectId": 12626
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Clear Creek County",
+        "value": 20584.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12630
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Mineral County",
+        "value": 4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12631
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Colorado",
+        "value": 30761.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12635
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Moffat County",
+        "value": 56,
+        "publish_date": 1687932000000,
+        "ObjectId": 12636
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Conejos County",
+        "value": 30959.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12640
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Montezuma County",
+        "value": 98,
+        "publish_date": 1687932000000,
+        "ObjectId": 12641
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Montrose County",
+        "value": 190,
+        "publish_date": 1687932000000,
+        "ObjectId": 12645
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Costilla County",
+        "value": 27430.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12646
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Morgan County",
+        "value": 154,
+        "publish_date": 1687932000000,
+        "ObjectId": 12650
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Crowley County",
+        "value": 59258.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12651
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Otero County",
+        "value": 137,
+        "publish_date": 1687932000000,
+        "ObjectId": 12655
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Custer County",
+        "value": 16811.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12656
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Ouray County",
+        "value": 6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12660
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Delta County",
+        "value": 23237.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12661
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Park County",
+        "value": 24,
+        "publish_date": 1687932000000,
+        "ObjectId": 12665
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Denver County",
+        "value": 31992.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12666
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Phillips County",
+        "value": 21,
+        "publish_date": 1687932000000,
+        "ObjectId": 12670
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Dolores County",
+        "value": 20046.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12671
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Pitkin County",
+        "value": 9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12675
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Douglas County",
+        "value": 27640.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12676
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Adams County",
+        "value": 168201,
+        "publish_date": 1687932000000,
+        "ObjectId": 12692
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Alamosa County",
+        "value": 6080,
+        "publish_date": 1687932000000,
+        "ObjectId": 12693
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Arapahoe County",
+        "value": 199522,
+        "publish_date": 1687932000000,
+        "ObjectId": 12694
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Archuleta County",
+        "value": 3612,
+        "publish_date": 1687932000000,
+        "ObjectId": 12695
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Baca County",
+        "value": 1086,
+        "publish_date": 1687932000000,
+        "ObjectId": 12696
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Bent County",
+        "value": 3031,
+        "publish_date": 1687932000000,
+        "ObjectId": 12697
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Boulder County",
+        "value": 92522,
+        "publish_date": 1687932000000,
+        "ObjectId": 12698
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Broomfield County",
+        "value": 18643,
+        "publish_date": 1687932000000,
+        "ObjectId": 12699
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Cases of COVID-19 in Colorado by County",
+        "date": null,
+        "metric": "Chaffee County",
+        "value": 5728,
+        "publish_date": 1687932000000,
+        "ObjectId": 12700
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Eagle County",
+        "value": 34065.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12702
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "El Paso County",
+        "value": 32593,
+        "publish_date": 1687932000000,
+        "ObjectId": 12705
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Elbert County",
+        "value": 21715.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12708
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Fremont County",
+        "value": 38480.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12711
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Prowers County",
+        "value": 53,
+        "publish_date": 1687932000000,
+        "ObjectId": 12743
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Pueblo County",
+        "value": 898,
+        "publish_date": 1687932000000,
+        "ObjectId": 12745
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Garfield County",
+        "value": 29263.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12746
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Rio Blanco County",
+        "value": 16,
+        "publish_date": 1687932000000,
+        "ObjectId": 12748
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Gilpin County",
+        "value": 20190.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12749
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Rio Grande County",
+        "value": 48,
+        "publish_date": 1687932000000,
+        "ObjectId": 12751
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Grand County",
+        "value": 25779.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12752
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Routt County",
+        "value": 34,
+        "publish_date": 1687932000000,
+        "ObjectId": 12754
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Gunnison County",
+        "value": 23106.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12755
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Saguache County",
+        "value": 14,
+        "publish_date": 1687932000000,
+        "ObjectId": 12757
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Hinsdale County",
+        "value": 21235.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12758
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "San Juan County",
+        "value": 0,
+        "publish_date": 1687932000000,
+        "ObjectId": 12760
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Huerfano County",
+        "value": 25989.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12761
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "San Miguel County",
+        "value": 10,
+        "publish_date": 1687932000000,
+        "ObjectId": 12763
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12765
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Sedgwick County",
+        "value": 12,
+        "publish_date": 1687932000000,
+        "ObjectId": 12767
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12768
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Summit County",
+        "value": 15,
+        "publish_date": 1687932000000,
+        "ObjectId": 12770
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Jackson County",
+        "value": 14517.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12771
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Teller County",
+        "value": 70,
+        "publish_date": 1687932000000,
+        "ObjectId": 12773
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Jefferson County",
+        "value": 28091.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12774
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Washington County",
+        "value": 36,
+        "publish_date": 1687932000000,
+        "ObjectId": 12776
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Kiowa County",
+        "value": 27203.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12777
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases in Colorado by County",
+        "date": null,
+        "metric": "Weld County",
+        "value": 800,
+        "publish_date": 1687932000000,
+        "ObjectId": 12779
       }
     },
     {
@@ -3097,9 +2401,9 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Kit Carson County",
-        "value": 27179.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12792
+        "value": 27208.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12780
       }
     },
     {
@@ -3108,10 +2412,10 @@
         "category": "Maps",
         "description": "Deaths Among COVID-19 Cases in Colorado by County",
         "date": null,
-        "metric": "Gilpin County",
-        "value": 7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12793
+        "metric": "Yuma County",
+        "value": 28,
+        "publish_date": 1687932000000,
+        "ObjectId": 12782
       }
     },
     {
@@ -3121,9 +2425,21 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "La Plata County",
-        "value": 28583.6,
-        "publish_date": 1687327200000,
-        "ObjectId": 12794
+        "value": 28588.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12783
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Adams County",
+        "value": 288.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12785
       }
     },
     {
@@ -3133,9 +2449,21 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Lake County",
-        "value": 30039.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12795
+        "value": 30079.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12786
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Alamosa County",
+        "value": 417.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12788
       }
     },
     {
@@ -3145,9 +2473,21 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Larimer County",
-        "value": 30663.3,
-        "publish_date": 1687327200000,
-        "ObjectId": 12796
+        "value": 30677.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12789
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Arapahoe County",
+        "value": 216.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12791
       }
     },
     {
@@ -3157,9 +2497,21 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Las Animas County",
-        "value": 30820.7,
-        "publish_date": 1687327200000,
-        "ObjectId": 12797
+        "value": 30800.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12792
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Archuleta County",
+        "value": 181.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12794
       }
     },
     {
@@ -3170,8 +2522,20 @@
         "date": null,
         "metric": "Lincoln County",
         "value": 42110.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12798
+        "publish_date": 1687932000000,
+        "ObjectId": 12795
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Baca County",
+        "value": 573.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12796
       }
     },
     {
@@ -3181,8 +2545,32 @@
         "description": "Case Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Logan County",
-        "value": 40554,
-        "publish_date": 1687327200000,
+        "value": 40558.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12797
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Bent County",
+        "value": 891.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12798
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Boulder County",
+        "value": 144.3,
+        "publish_date": 1687932000000,
         "ObjectId": 12799
       }
     },
@@ -3190,12 +2578,552 @@
       "attributes": {
         "section": "Case Summary",
         "category": "Maps",
-        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Broomfield County",
+        "value": 184.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12800
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Chaffee County",
+        "value": 288.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12926
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Saguache County",
+        "value": 215.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12927
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Cheyenne County",
+        "value": 699.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12954
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Clear Creek County",
+        "value": 137.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12955
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Colorado",
+        "value": 251.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12956
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Conejos County",
+        "value": 791.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12957
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Costilla County",
+        "value": 524.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12958
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Crowley County",
+        "value": 548.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12959
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Custer County",
+        "value": 455.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12960
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Delta County",
+        "value": 539.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12961
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Denver County",
+        "value": 220.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12962
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Dolores County",
+        "value": 375.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12963
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Douglas County",
+        "value": 142.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12964
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Eagle County",
+        "value": 73.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12965
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "El Paso County",
+        "value": 265,
+        "publish_date": 1687932000000,
+        "ObjectId": 12966
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Elbert County",
+        "value": 173.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12967
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Fremont County",
+        "value": 437.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 12968
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Garfield County",
+        "value": 177,
+        "publish_date": 1687932000000,
+        "ObjectId": 12969
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Gilpin County",
+        "value": 119,
+        "publish_date": 1687932000000,
+        "ObjectId": 12970
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Grand County",
+        "value": 189.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12971
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Gunnison County",
+        "value": 92.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12972
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Hinsdale County",
+        "value": 0,
+        "publish_date": 1687932000000,
+        "ObjectId": 12973
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Huerfano County",
+        "value": 604.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12974
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12975
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "International",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12976
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Jackson County",
+        "value": 0,
+        "publish_date": 1687932000000,
+        "ObjectId": 12977
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Jefferson County",
+        "value": 277.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12978
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Kiowa County",
+        "value": 482.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 12979
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Kit Carson County",
+        "value": 476.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12980
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "La Plata County",
+        "value": 191.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12981
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Lake County",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12982
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Larimer County",
+        "value": 173.7,
+        "publish_date": 1687932000000,
+        "ObjectId": 12983
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Las Animas County",
+        "value": 375.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12984
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Lincoln County",
+        "value": 211.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 12985
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Logan County",
+        "value": 569,
+        "publish_date": 1687932000000,
+        "ObjectId": 12986
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Mesa County",
-        "value": 33459.2,
-        "publish_date": 1687327200000,
-        "ObjectId": 12800
+        "value": 417.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12987
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Mineral County",
+        "value": null,
+        "publish_date": 1687932000000,
+        "ObjectId": 12988
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Moffat County",
+        "value": 425.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12989
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Montezuma County",
+        "value": 373.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 12990
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Montrose County",
+        "value": 440,
+        "publish_date": 1687932000000,
+        "ObjectId": 12991
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Morgan County",
+        "value": 531.4,
+        "publish_date": 1687932000000,
+        "ObjectId": 12992
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Otero County",
+        "value": 738.3,
+        "publish_date": 1687932000000,
+        "ObjectId": 12993
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Ouray County",
+        "value": 118.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12994
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Park County",
+        "value": 135.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 12995
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Phillips County",
+        "value": 466.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12996
       }
     },
     {
@@ -3206,8 +3134,80 @@
         "date": null,
         "metric": "San Juan County",
         "value": 0,
-        "publish_date": 1687327200000,
-        "ObjectId": 12802
+        "publish_date": 1687932000000,
+        "ObjectId": 12998
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Pitkin County",
+        "value": 51.9,
+        "publish_date": 1687932000000,
+        "ObjectId": 12999
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Prowers County",
+        "value": 442.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 13000
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Pueblo County",
+        "value": 529.8,
+        "publish_date": 1687932000000,
+        "ObjectId": 13001
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Rio Blanco County",
+        "value": 247.6,
+        "publish_date": 1687932000000,
+        "ObjectId": 13002
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Rio Grande County",
+        "value": 421.1,
+        "publish_date": 1687932000000,
+        "ObjectId": 13003
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "Routt County",
+        "value": 135.5,
+        "publish_date": 1687932000000,
+        "ObjectId": 13004
       }
     },
     {
@@ -3218,8 +3218,8 @@
         "date": null,
         "metric": "San Miguel County",
         "value": 123.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12804
+        "publish_date": 1687932000000,
+        "ObjectId": 13005
       }
     },
     {
@@ -3230,8 +3230,8 @@
         "date": null,
         "metric": "Sedgwick County",
         "value": 514.8,
-        "publish_date": 1687327200000,
-        "ObjectId": 12809
+        "publish_date": 1687932000000,
+        "ObjectId": 13006
       }
     },
     {
@@ -3242,8 +3242,8 @@
         "date": null,
         "metric": "Summit County",
         "value": 48.4,
-        "publish_date": 1687327200000,
-        "ObjectId": 12812
+        "publish_date": 1687932000000,
+        "ObjectId": 13007
       }
     },
     {
@@ -3254,8 +3254,8 @@
         "date": null,
         "metric": "Teller County",
         "value": 280.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12874
+        "publish_date": 1687932000000,
+        "ObjectId": 13008
       }
     },
     {
@@ -3266,8 +3266,8 @@
         "date": null,
         "metric": "Washington County",
         "value": 740,
-        "publish_date": 1687327200000,
-        "ObjectId": 12881
+        "publish_date": 1687932000000,
+        "ObjectId": 13009
       }
     },
     {
@@ -3277,9 +3277,9 @@
         "description": "Deaths Among COVID-19 Cases Rates Per 100,000 People in Colorado by County",
         "date": null,
         "metric": "Weld County",
-        "value": 234.9,
-        "publish_date": 1687327200000,
-        "ObjectId": 12888
+        "value": 235.2,
+        "publish_date": 1687932000000,
+        "ObjectId": 13010
       }
     },
     {
@@ -3290,8 +3290,8 @@
         "date": null,
         "metric": "Yuma County",
         "value": 281.5,
-        "publish_date": 1687327200000,
-        "ObjectId": 12895
+        "publish_date": 1687932000000,
+        "ObjectId": 13011
       }
     }
   ]
