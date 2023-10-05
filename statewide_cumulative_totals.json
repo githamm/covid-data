@@ -85,9 +85,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Cases",
-        "value": 1806547,
-        "publish_date": 1695794400000,
-        "ObjectId": 3
+        "value": 1808780,
+        "publish_date": 1696399200000,
+        "ObjectId": 1
       }
     },
     {
@@ -97,9 +97,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Hospitalized",
-        "value": 79575,
-        "publish_date": 1695794400000,
-        "ObjectId": 10
+        "value": 79633,
+        "publish_date": 1696399200000,
+        "ObjectId": 2
       }
     },
     {
@@ -110,8 +110,8 @@
         "date": null,
         "metric": "Counties",
         "value": 64,
-        "publish_date": 1695794400000,
-        "ObjectId": 15
+        "publish_date": 1696399200000,
+        "ObjectId": 3
       }
     },
     {
@@ -121,9 +121,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Deaths Among Cases",
-        "value": 14826,
-        "publish_date": 1695794400000,
-        "ObjectId": 20
+        "value": 14835,
+        "publish_date": 1696399200000,
+        "ObjectId": 4
       }
     },
     {
@@ -134,8 +134,8 @@
         "date": null,
         "metric": "Deaths Due to COVID-19",
         "value": 15379,
-        "publish_date": 1695794400000,
-        "ObjectId": 24
+        "publish_date": 1696399200000,
+        "ObjectId": 5
       }
     },
     {
@@ -145,9 +145,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Outbreaks",
-        "value": 11244,
-        "publish_date": 1695794400000,
-        "ObjectId": 30
+        "value": 11279,
+        "publish_date": 1696399200000,
+        "ObjectId": 6
       }
     },
     {
@@ -157,9 +157,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Confirmed cases",
-        "value": 1616692,
-        "publish_date": 1695794400000,
-        "ObjectId": 34
+        "value": 1618229,
+        "publish_date": 1696399200000,
+        "ObjectId": 7
       }
     },
     {
@@ -169,9 +169,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Percent of confirmed cases",
-        "value": 0.8949,
-        "publish_date": 1695794400000,
-        "ObjectId": 38
+        "value": 0.8947,
+        "publish_date": 1696399200000,
+        "ObjectId": 8
       }
     },
     {
@@ -181,9 +181,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Probable cases",
-        "value": 189855,
-        "publish_date": 1695794400000,
-        "ObjectId": 87
+        "value": 190551,
+        "publish_date": 1696399200000,
+        "ObjectId": 9
       }
     },
     {
@@ -193,9 +193,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Percent of probable cases",
-        "value": 0.1051,
-        "publish_date": 1695794400000,
-        "ObjectId": 90
+        "value": 0.1053,
+        "publish_date": 1696399200000,
+        "ObjectId": 10
       }
     },
     {
@@ -205,9 +205,9 @@
         "description": "Cumulative counts to date",
         "date": null,
         "metric": "Confirmed deaths among cases",
-        "value": 12900,
-        "publish_date": 1695794400000,
-        "ObjectId": 93
+        "value": 12906,
+        "publish_date": 1696399200000,
+        "ObjectId": 11
       }
     },
     {
@@ -218,8 +218,8 @@
         "date": null,
         "metric": "Percent of confirmed deaths among cases",
         "value": 0.8769,
-        "publish_date": 1695794400000,
-        "ObjectId": 96
+        "publish_date": 1696399200000,
+        "ObjectId": 12
       }
     },
     {
@@ -230,8 +230,8 @@
         "date": null,
         "metric": "Probable deaths among cases",
         "value": 1811,
-        "publish_date": 1695794400000,
-        "ObjectId": 99
+        "publish_date": 1696399200000,
+        "ObjectId": 13
       }
     },
     {
@@ -242,8 +242,8 @@
         "date": null,
         "metric": "Percent of probable deaths among cases",
         "value": 0.1231,
-        "publish_date": 1695794400000,
-        "ObjectId": 102
+        "publish_date": 1696399200000,
+        "ObjectId": 14
       }
     }
   ]
