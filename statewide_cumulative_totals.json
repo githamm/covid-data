@@ -84,22 +84,10 @@
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
         "date": null,
-        "metric": "Cases",
-        "value": 1808780,
-        "publish_date": 1696399200000,
-        "ObjectId": 1
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
         "metric": "Hospitalized",
-        "value": 79633,
-        "publish_date": 1696399200000,
-        "ObjectId": 2
+        "value": 79696,
+        "publish_date": 1697004000000,
+        "ObjectId": 1
       }
     },
     {
@@ -110,115 +98,7 @@
         "date": null,
         "metric": "Counties",
         "value": 64,
-        "publish_date": 1696399200000,
-        "ObjectId": 3
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Deaths Among Cases",
-        "value": 14835,
-        "publish_date": 1696399200000,
-        "ObjectId": 4
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Deaths Due to COVID-19",
-        "value": 15379,
-        "publish_date": 1696399200000,
-        "ObjectId": 5
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Outbreaks",
-        "value": 11279,
-        "publish_date": 1696399200000,
-        "ObjectId": 6
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Confirmed cases",
-        "value": 1618229,
-        "publish_date": 1696399200000,
-        "ObjectId": 7
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Percent of confirmed cases",
-        "value": 0.8947,
-        "publish_date": 1696399200000,
-        "ObjectId": 8
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Probable cases",
-        "value": 190551,
-        "publish_date": 1696399200000,
-        "ObjectId": 9
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Percent of probable cases",
-        "value": 0.1053,
-        "publish_date": 1696399200000,
-        "ObjectId": 10
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Confirmed deaths among cases",
-        "value": 12906,
-        "publish_date": 1696399200000,
-        "ObjectId": 11
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Data",
-        "category": "Colorado COVID-19 Data",
-        "description": "Cumulative counts to date",
-        "date": null,
-        "metric": "Percent of confirmed deaths among cases",
-        "value": 0.8769,
-        "publish_date": 1696399200000,
+        "publish_date": 1697004000000,
         "ObjectId": 12
       }
     },
@@ -228,10 +108,10 @@
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
         "date": null,
-        "metric": "Probable deaths among cases",
-        "value": 1811,
-        "publish_date": 1696399200000,
-        "ObjectId": 13
+        "metric": "Deaths Due to COVID-19",
+        "value": 15399,
+        "publish_date": 1697004000000,
+        "ObjectId": 19
       }
     },
     {
@@ -240,10 +120,58 @@
         "category": "Colorado COVID-19 Data",
         "description": "Cumulative counts to date",
         "date": null,
-        "metric": "Percent of probable deaths among cases",
-        "value": 0.1231,
-        "publish_date": 1696399200000,
-        "ObjectId": 14
+        "metric": "Outbreaks",
+        "value": 11325,
+        "publish_date": 1697004000000,
+        "ObjectId": 25
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": null,
+        "metric": "Confirmed cases",
+        "value": 1620439,
+        "publish_date": 1697004000000,
+        "ObjectId": 33
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": null,
+        "metric": "Percent of confirmed cases",
+        "value": 0.8943,
+        "publish_date": 1697004000000,
+        "ObjectId": 39
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": null,
+        "metric": "Probable cases",
+        "value": 191452,
+        "publish_date": 1697004000000,
+        "ObjectId": 50
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Data",
+        "category": "Colorado COVID-19 Data",
+        "description": "Cumulative counts to date",
+        "date": null,
+        "metric": "Percent of probable cases",
+        "value": 0.1057,
+        "publish_date": 1697004000000,
+        "ObjectId": 60
       }
     }
   ]
