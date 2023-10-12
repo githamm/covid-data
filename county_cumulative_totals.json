@@ -77,7 +77,6 @@
       "defaultValue": null
     }
   ],
-  "exceededTransferLimit": true,
   "features": [
     {
       "attributes": {
@@ -12077,6 +12076,1686 @@
         "value": 26827.9,
         "publish_date": 1697004000000,
         "ObjectId": 1060
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 26238.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1061
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 27283.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1062
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 26827.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1063
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 26238.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1064
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 27283.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1065
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 26827.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1066
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "HUERFANO",
+        "value": 26238.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1067
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "INTERNATIONAL",
+        "value": null,
+        "publish_date": 1697004000000,
+        "ObjectId": 1068
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "INTERNATIONAL",
+        "value": null,
+        "publish_date": 1697004000000,
+        "ObjectId": 1069
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 14524.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1070
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 14727.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1071
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 15220.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1072
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 14524.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1073
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 14727.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1074
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 15220.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1075
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "JACKSON",
+        "value": 14524.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1076
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "KIT CARSON",
+        "value": 27143.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1077
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24513.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1078
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 40672.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1079
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "ROUTT",
+        "value": 32656.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1080
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "KIT CARSON",
+        "value": 26794.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1081
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24626.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1082
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 41500.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1083
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "ROUTT",
+        "value": 32349.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1084
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "KIT CARSON",
+        "value": 27320,
+        "publish_date": 1697004000000,
+        "ObjectId": 1085
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24419.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1086
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 42058.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1087
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 40672.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1088
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 41500.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1089
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 42058.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1090
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 40672.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1091
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 41500.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1092
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LOGAN",
+        "value": 42058.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1093
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 34200.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1094
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33878.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1095
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33642.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1096
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 34200.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1097
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33878.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1098
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33642.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1099
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 34200.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1100
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33878.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1101
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MESA",
+        "value": 33642.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1102
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 36436.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1103
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 34233.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1104
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 34344.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1105
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 36436.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1106
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 34233.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1107
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 34344.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1108
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 36436.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1109
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "MINERAL",
+        "value": 34233.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1110
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PITKIN",
+        "value": 46971,
+        "publish_date": 1697004000000,
+        "ObjectId": 1111
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24513.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1112
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "ROUTT",
+        "value": 32393,
+        "publish_date": 1697004000000,
+        "ObjectId": 1113
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "KIT CARSON",
+        "value": 27143.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1114
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24626.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1115
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24933.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1116
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PITKIN",
+        "value": 46992.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1117
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 29137.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1118
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24419.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1119
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24481.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1120
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PITKIN",
+        "value": 48330.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1121
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28870.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1122
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "TELLER",
+        "value": 24513.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1123
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24078,
+        "publish_date": 1697004000000,
+        "ObjectId": 1124
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 27967,
+        "publish_date": 1697004000000,
+        "ObjectId": 1125
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26679.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1126
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28673.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1127
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28018.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1128
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24933.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1129
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 29137.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1130
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28337.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1131
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26345,
+        "publish_date": 1697004000000,
+        "ObjectId": 1132
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24481.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1133
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28870.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1134
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 27967,
+        "publish_date": 1697004000000,
+        "ObjectId": 1135
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26535.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1136
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24078,
+        "publish_date": 1697004000000,
+        "ObjectId": 1137
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28673.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1138
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28018.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1139
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26679.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1140
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24933.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1141
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 29137.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1142
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28337.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1143
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26345,
+        "publish_date": 1697004000000,
+        "ObjectId": 1144
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24481.3,
+        "publish_date": 1697004000000,
+        "ObjectId": 1145
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28870.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1146
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 27967,
+        "publish_date": 1697004000000,
+        "ObjectId": 1147
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26535.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1148
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAGUACHE",
+        "value": 24078,
+        "publish_date": 1697004000000,
+        "ObjectId": 1149
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LA PLATA",
+        "value": 28673.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1150
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28018.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1151
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26679.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1152
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 44241.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1153
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29697.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1154
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PROWERS",
+        "value": 28337.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1155
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26345,
+        "publish_date": 1697004000000,
+        "ObjectId": 1156
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 42452.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1157
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29733.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1158
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37984.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1159
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WASHINGTON",
+        "value": 26535.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1160
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 39325.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1161
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29964.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1162
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37810.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1163
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 44241.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1164
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32963.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1165
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29697.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1166
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37786,
+        "publish_date": 1697004000000,
+        "ObjectId": 1167
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 42452.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1168
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29733.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1169
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32130.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1170
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37984.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1171
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 39325.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1172
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29964.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1173
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 31182,
+        "publish_date": 1697004000000,
+        "ObjectId": 1174
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37810.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1175
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 44241.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1176
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29697.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1177
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32963.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1178
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37786,
+        "publish_date": 1697004000000,
+        "ObjectId": 1179
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 42452.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1180
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29733.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1181
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32130.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1182
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37984.4,
+        "publish_date": 1697004000000,
+        "ObjectId": 1183
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN JUAN",
+        "value": 39325.8,
+        "publish_date": 1697004000000,
+        "ObjectId": 1184
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LAKE",
+        "value": 29964.6,
+        "publish_date": 1697004000000,
+        "ObjectId": 1185
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 31182,
+        "publish_date": 1697004000000,
+        "ObjectId": 1186
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37810.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1187
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN MIGUEL",
+        "value": 34004,
+        "publish_date": 1697004000000,
+        "ObjectId": 1188
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LARIMER",
+        "value": 31400,
+        "publish_date": 1697004000000,
+        "ObjectId": 1189
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32963.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1190
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "PUEBLO",
+        "value": 37786,
+        "publish_date": 1697004000000,
+        "ObjectId": 1191
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN MIGUEL",
+        "value": 33894.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1192
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LARIMER",
+        "value": 31143.9,
+        "publish_date": 1697004000000,
+        "ObjectId": 1193
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 32130.7,
+        "publish_date": 1697004000000,
+        "ObjectId": 1194
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN MIGUEL",
+        "value": 34255,
+        "publish_date": 1697004000000,
+        "ObjectId": 1195
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "LARIMER",
+        "value": 30798.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1196
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "WELD",
+        "value": 31182,
+        "publish_date": 1697004000000,
+        "ObjectId": 1197
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN MIGUEL",
+        "value": 34004,
+        "publish_date": 1697004000000,
+        "ObjectId": 1198
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "YUMA",
+        "value": 23872.1,
+        "publish_date": 1697004000000,
+        "ObjectId": 1199
+      }
+    },
+    {
+      "attributes": {
+        "section": "Case Summary",
+        "category": "Maps",
+        "description": "Case Rates Per 100,000 People in Colorado by County",
+        "date": null,
+        "metric": "SAN MIGUEL",
+        "value": 33894.5,
+        "publish_date": 1697004000000,
+        "ObjectId": 1200
       }
     }
   ]

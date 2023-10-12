@@ -41,7 +41,7 @@
     {
       "name": "week_start_date",
       "type": "esriFieldTypeDate",
-      "alias": "week_start_date",
+      "alias": "week_end_date",
       "sqlType": "sqlTypeTimestamp2",
       "length": 8,
       "domain": null,
