@@ -81,649 +81,37 @@
     {
       "attributes": {
         "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1675148400000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 155,
+        "publish_date": 1701241200000,
+        "ObjectId": 1
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
         "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
         "description": "Ages 5+",
-        "date": 1698732000000,
+        "date": 1675148400000,
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 60.9,
-        "publish_date": 1700636400000,
+        "value": 45.7,
+        "publish_date": 1701241200000,
+        "ObjectId": 3
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1675148400000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 10.7,
+        "publish_date": 1701241200000,
         "ObjectId": 4
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1698732000000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 20.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 5
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1698732000000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 17.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 6
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 48.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 10
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 35.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 11
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 3.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 12
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 14.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 13
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 6.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 14
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1696053600000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 15
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 34,
-        "publish_date": 1700636400000,
-        "ObjectId": 16
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 19.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 17
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 4.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 18
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 19
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 6.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 20
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1693461600000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 6.8,
-        "publish_date": 1700636400000,
-        "ObjectId": 21
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 41.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 22
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 10.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 23
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 4.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 24
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 25
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 2.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 26
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1690783200000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 3.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 27
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 33.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 28
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 16.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 29
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 3.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 30
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 31
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 4.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 32
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1688104800000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 2.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 33
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 46.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 34
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 23.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 35
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 5.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 36
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 5.8,
-        "publish_date": 1700636400000,
-        "ObjectId": 37
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 10.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 38
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1685512800000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 4.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 39
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 70,
-        "publish_date": 1700636400000,
-        "ObjectId": 40
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 29.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 41
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 11,
-        "publish_date": 1700636400000,
-        "ObjectId": 42
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 43
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 12.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 44
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1682834400000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 8.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 45
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 77.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 46
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 38.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 47
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 11.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 48
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 12.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 49
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 16.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 50
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1680242400000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 13.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 51
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 66.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 52
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 43.1,
-        "publish_date": 1700636400000,
-        "ObjectId": 53
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 7.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 54
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
-        "value": 11.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 55
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 10.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 56
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1677567600000,
-        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 13.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 57
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1675148400000,
-        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 154.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 58
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1675148400000,
-        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 45.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 59
-      }
-    },
-    {
-      "attributes": {
-        "section": "State Level",
-        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
-        "description": "Ages 5+",
-        "date": 1675148400000,
-        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
-        "value": 10.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 60
       }
     },
     {
@@ -734,8 +122,8 @@
         "date": 1675148400000,
         "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
         "value": 9.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 61
+        "publish_date": 1701241200000,
+        "ObjectId": 7
       }
     },
     {
@@ -746,8 +134,8 @@
         "date": 1675148400000,
         "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
         "value": 33,
-        "publish_date": 1700636400000,
-        "ObjectId": 62
+        "publish_date": 1701241200000,
+        "ObjectId": 9
       }
     },
     {
@@ -758,8 +146,8 @@
         "date": 1675148400000,
         "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
         "value": 14.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 63
+        "publish_date": 1701241200000,
+        "ObjectId": 10
       }
     },
     {
@@ -769,9 +157,9 @@
         "description": "Ages 5+",
         "date": 1672470000000,
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 198.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 64
+        "value": 200.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 13
       }
     },
     {
@@ -781,9 +169,33 @@
         "description": "Ages 5+",
         "date": 1672470000000,
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 100.8,
-        "publish_date": 1700636400000,
-        "ObjectId": 65
+        "value": 101.2,
+        "publish_date": 1701241200000,
+        "ObjectId": 14
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 51.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 15
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 65.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 16
       }
     },
     {
@@ -794,8 +206,8 @@
         "date": 1672470000000,
         "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
         "value": 15.3,
-        "publish_date": 1700636400000,
-        "ObjectId": 66
+        "publish_date": 1701241200000,
+        "ObjectId": 17
       }
     },
     {
@@ -806,8 +218,32 @@
         "date": 1672470000000,
         "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
         "value": 15.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 67
+        "publish_date": 1701241200000,
+        "ObjectId": 18
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 16.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 19
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 21.1,
+        "publish_date": 1701241200000,
+        "ObjectId": 20
       }
     },
     {
@@ -817,9 +253,9 @@
         "description": "Ages 5+",
         "date": 1672470000000,
         "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
-        "value": 39.6,
-        "publish_date": 1700636400000,
-        "ObjectId": 68
+        "value": 39.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 21
       }
     },
     {
@@ -829,9 +265,21 @@
         "description": "Ages 5+",
         "date": 1672470000000,
         "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
-        "value": 26.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 69
+        "value": 26.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 22
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 15.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 23
       }
     },
     {
@@ -841,9 +289,21 @@
         "description": "Ages 5+",
         "date": 1669791600000,
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 175.7,
-        "publish_date": 1700636400000,
-        "ObjectId": 70
+        "value": 176.2,
+        "publish_date": 1701241200000,
+        "ObjectId": 24
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1698732000000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 19,
+        "publish_date": 1701241200000,
+        "ObjectId": 25
       }
     },
     {
@@ -853,9 +313,21 @@
         "description": "Ages 5+",
         "date": 1669791600000,
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 113.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 71
+        "value": 113.9,
+        "publish_date": 1701241200000,
+        "ObjectId": 26
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 48.8,
+        "publish_date": 1701241200000,
+        "ObjectId": 27
       }
     },
     {
@@ -866,8 +338,20 @@
         "date": 1669791600000,
         "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
         "value": 9.5,
-        "publish_date": 1700636400000,
-        "ObjectId": 72
+        "publish_date": 1701241200000,
+        "ObjectId": 28
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 36.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 29
       }
     },
     {
@@ -878,8 +362,20 @@
         "date": 1669791600000,
         "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
         "value": 14.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 73
+        "publish_date": 1701241200000,
+        "ObjectId": 30
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 3.9,
+        "publish_date": 1701241200000,
+        "ObjectId": 31
       }
     },
     {
@@ -890,8 +386,20 @@
         "date": 1669791600000,
         "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
         "value": 35.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 74
+        "publish_date": 1701241200000,
+        "ObjectId": 32
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 14.7,
+        "publish_date": 1701241200000,
+        "ObjectId": 33
       }
     },
     {
@@ -902,8 +410,20 @@
         "date": 1669791600000,
         "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
         "value": 31.9,
-        "publish_date": 1700636400000,
-        "ObjectId": 75
+        "publish_date": 1701241200000,
+        "ObjectId": 34
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 6.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 35
       }
     },
     {
@@ -913,9 +433,21 @@
         "description": "Ages 5+",
         "date": 1667196000000,
         "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
-        "value": 118.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 76
+        "value": 118.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 36
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1696053600000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 10.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 37
       }
     },
     {
@@ -925,9 +457,21 @@
         "description": "Ages 5+",
         "date": 1667196000000,
         "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
-        "value": 53.2,
-        "publish_date": 1700636400000,
-        "ObjectId": 77
+        "value": 53.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 38
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 35.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 39
       }
     },
     {
@@ -938,8 +482,8 @@
         "date": 1667196000000,
         "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
         "value": 0,
-        "publish_date": 1700636400000,
-        "ObjectId": 78
+        "publish_date": 1701241200000,
+        "ObjectId": 40
       }
     },
     {
@@ -950,8 +494,20 @@
         "date": 1667196000000,
         "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
         "value": 9.8,
-        "publish_date": 1700636400000,
-        "ObjectId": 79
+        "publish_date": 1701241200000,
+        "ObjectId": 41
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 19.9,
+        "publish_date": 1701241200000,
+        "ObjectId": 42
       }
     },
     {
@@ -962,8 +518,20 @@
         "date": 1667196000000,
         "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
         "value": 18.4,
-        "publish_date": 1700636400000,
-        "ObjectId": 80
+        "publish_date": 1701241200000,
+        "ObjectId": 43
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 4.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 44
       }
     },
     {
@@ -974,8 +542,476 @@
         "date": 1667196000000,
         "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
         "value": 14,
-        "publish_date": 1700636400000,
-        "ObjectId": 81
+        "publish_date": 1701241200000,
+        "ObjectId": 45
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 46
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 6.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 48
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1693461600000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 6.8,
+        "publish_date": 1701241200000,
+        "ObjectId": 50
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 41.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 52
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 11,
+        "publish_date": 1701241200000,
+        "ObjectId": 54
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 4.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 56
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.2,
+        "publish_date": 1701241200000,
+        "ObjectId": 58
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 2.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 60
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1690783200000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 3.1,
+        "publish_date": 1701241200000,
+        "ObjectId": 90
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 33.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 91
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 16.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 92
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 3.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 93
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.1,
+        "publish_date": 1701241200000,
+        "ObjectId": 94
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 4.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 95
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1688104800000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 2.9,
+        "publish_date": 1701241200000,
+        "ObjectId": 96
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 46.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 97
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 23.1,
+        "publish_date": 1701241200000,
+        "ObjectId": 98
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 5.7,
+        "publish_date": 1701241200000,
+        "ObjectId": 99
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 5.8,
+        "publish_date": 1701241200000,
+        "ObjectId": 100
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 10.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 101
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1685512800000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 4.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 102
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 70.2,
+        "publish_date": 1701241200000,
+        "ObjectId": 103
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 29.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 104
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 11,
+        "publish_date": 1701241200000,
+        "ObjectId": 105
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.9,
+        "publish_date": 1701241200000,
+        "ObjectId": 106
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 12.7,
+        "publish_date": 1701241200000,
+        "ObjectId": 107
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1682834400000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 8.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 108
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 77.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 109
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 38.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 110
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 11.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 111
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 12.3,
+        "publish_date": 1701241200000,
+        "ObjectId": 112
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 16.2,
+        "publish_date": 1701241200000,
+        "ObjectId": 113
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1680242400000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 13.1,
+        "publish_date": 1701241200000,
+        "ObjectId": 114
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Unvaccinated rate per 1 million of COVID-19 Deaths",
+        "value": 66.5,
+        "publish_date": 1701241200000,
+        "ObjectId": 115
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Unvaccinated rate per 100k of COVID-19 Hospitalizations",
+        "value": 43,
+        "publish_date": 1701241200000,
+        "ObjectId": 116
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Up to Date rate per 1 million of COVID-19 Deaths",
+        "value": 7.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 117
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Up to Date rate per 100k of COVID-19 Hospitalizations",
+        "value": 11.4,
+        "publish_date": 1701241200000,
+        "ObjectId": 118
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Deaths per 1 million by Month of Death & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Vaccinated but not yet up to date rate per 1 million of COVID-19 Deaths",
+        "value": 10.7,
+        "publish_date": 1701241200000,
+        "ObjectId": 119
+      }
+    },
+    {
+      "attributes": {
+        "section": "State Level",
+        "category": "Age-Adjusted Four-Week Average COVID-19 Hospitalizations per 100,000 by Month of Admission Date & Vaccination Status",
+        "description": "Ages 5+",
+        "date": 1677567600000,
+        "metric": "Vaccinated but not yet up to date rate per 100k of COVID-19 Hospitalizations",
+        "value": 13.6,
+        "publish_date": 1701241200000,
+        "ObjectId": 120
       }
     }
   ]
