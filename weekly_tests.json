@@ -68,13 +68,24 @@
   "features": [
     {
       "attributes": {
+        "weekyear": 62024,
+        "total_positive_covid_tests": 397,
+        "total_covid_tests": 4982,
+        "week_positivity": 0.08,
+        "week_start_date": 1707030000000,
+        "publish_date": 1707894000000,
+        "ObjectId": 1
+      }
+    },
+    {
+      "attributes": {
         "weekyear": 52024,
         "total_positive_covid_tests": 463,
         "total_covid_tests": 5228,
         "week_positivity": 0.089,
         "week_start_date": 1706425200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 1
+        "publish_date": 1707894000000,
+        "ObjectId": 2
       }
     },
     {
@@ -84,8 +95,8 @@
         "total_covid_tests": 5534,
         "week_positivity": 0.086,
         "week_start_date": 1705820400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 2
+        "publish_date": 1707894000000,
+        "ObjectId": 3
       }
     },
     {
@@ -95,8 +106,8 @@
         "total_covid_tests": 5345,
         "week_positivity": 0.086,
         "week_start_date": 1705215600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 3
+        "publish_date": 1707894000000,
+        "ObjectId": 4
       }
     },
     {
@@ -106,8 +117,8 @@
         "total_covid_tests": 6551,
         "week_positivity": 0.091,
         "week_start_date": 1704610800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 4
+        "publish_date": 1707894000000,
+        "ObjectId": 5
       }
     },
     {
@@ -117,8 +128,8 @@
         "total_covid_tests": 6874,
         "week_positivity": 0.098,
         "week_start_date": 1704006000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 5
+        "publish_date": 1707894000000,
+        "ObjectId": 6
       }
     },
     {
@@ -128,8 +139,8 @@
         "total_covid_tests": 7265,
         "week_positivity": 0.1,
         "week_start_date": 1703401200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 6
+        "publish_date": 1707894000000,
+        "ObjectId": 7
       }
     },
     {
@@ -139,8 +150,8 @@
         "total_covid_tests": 5614,
         "week_positivity": 0.09,
         "week_start_date": 1702796400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 7
+        "publish_date": 1707894000000,
+        "ObjectId": 8
       }
     },
     {
@@ -150,8 +161,8 @@
         "total_covid_tests": 5586,
         "week_positivity": 0.098,
         "week_start_date": 1702191600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 8
+        "publish_date": 1707894000000,
+        "ObjectId": 9
       }
     },
     {
@@ -161,8 +172,8 @@
         "total_covid_tests": 6599,
         "week_positivity": 0.108,
         "week_start_date": 1701586800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 9
+        "publish_date": 1707894000000,
+        "ObjectId": 10
       }
     },
     {
@@ -172,8 +183,8 @@
         "total_covid_tests": 6396,
         "week_positivity": 0.123,
         "week_start_date": 1700982000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 10
+        "publish_date": 1707894000000,
+        "ObjectId": 11
       }
     },
     {
@@ -183,8 +194,8 @@
         "total_covid_tests": 5296,
         "week_positivity": 0.139,
         "week_start_date": 1700377200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 11
+        "publish_date": 1707894000000,
+        "ObjectId": 12
       }
     },
     {
@@ -194,8 +205,8 @@
         "total_covid_tests": 5872,
         "week_positivity": 0.144,
         "week_start_date": 1699772400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 12
+        "publish_date": 1707894000000,
+        "ObjectId": 13
       }
     },
     {
@@ -205,8 +216,8 @@
         "total_covid_tests": 5000,
         "week_positivity": 0.16,
         "week_start_date": 1699164000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 13
+        "publish_date": 1707894000000,
+        "ObjectId": 14
       }
     },
     {
@@ -216,8 +227,8 @@
         "total_covid_tests": 3975,
         "week_positivity": 0.153,
         "week_start_date": 1698559200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 14
+        "publish_date": 1707894000000,
+        "ObjectId": 15
       }
     },
     {
@@ -227,8 +238,8 @@
         "total_covid_tests": 4519,
         "week_positivity": 0.16,
         "week_start_date": 1697954400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 15
+        "publish_date": 1707894000000,
+        "ObjectId": 16
       }
     },
     {
@@ -238,8 +249,8 @@
         "total_covid_tests": 4349,
         "week_positivity": 0.158,
         "week_start_date": 1697349600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 16
+        "publish_date": 1707894000000,
+        "ObjectId": 17
       }
     },
     {
@@ -249,8 +260,8 @@
         "total_covid_tests": 3687,
         "week_positivity": 0.137,
         "week_start_date": 1696744800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 17
+        "publish_date": 1707894000000,
+        "ObjectId": 18
       }
     },
     {
@@ -260,8 +271,8 @@
         "total_covid_tests": 3835,
         "week_positivity": 0.143,
         "week_start_date": 1696140000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 18
+        "publish_date": 1707894000000,
+        "ObjectId": 19
       }
     },
     {
@@ -271,8 +282,8 @@
         "total_covid_tests": 3466,
         "week_positivity": 0.132,
         "week_start_date": 1695535200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 19
+        "publish_date": 1707894000000,
+        "ObjectId": 20
       }
     },
     {
@@ -282,8 +293,8 @@
         "total_covid_tests": 3434,
         "week_positivity": 0.135,
         "week_start_date": 1694930400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 20
+        "publish_date": 1707894000000,
+        "ObjectId": 21
       }
     },
     {
@@ -293,8 +304,8 @@
         "total_covid_tests": 3268,
         "week_positivity": 0.133,
         "week_start_date": 1694325600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 21
+        "publish_date": 1707894000000,
+        "ObjectId": 22
       }
     },
     {
@@ -304,8 +315,8 @@
         "total_covid_tests": 3171,
         "week_positivity": 0.134,
         "week_start_date": 1693720800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 22
+        "publish_date": 1707894000000,
+        "ObjectId": 23
       }
     },
     {
@@ -315,8 +326,8 @@
         "total_covid_tests": 3270,
         "week_positivity": 0.139,
         "week_start_date": 1693116000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 23
+        "publish_date": 1707894000000,
+        "ObjectId": 24
       }
     },
     {
@@ -326,8 +337,8 @@
         "total_covid_tests": 2703,
         "week_positivity": 0.13,
         "week_start_date": 1692511200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 24
+        "publish_date": 1707894000000,
+        "ObjectId": 25
       }
     },
     {
@@ -337,8 +348,8 @@
         "total_covid_tests": 2337,
         "week_positivity": 0.124,
         "week_start_date": 1691906400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 25
+        "publish_date": 1707894000000,
+        "ObjectId": 26
       }
     },
     {
@@ -348,8 +359,8 @@
         "total_covid_tests": 1838,
         "week_positivity": 0.124,
         "week_start_date": 1691301600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 26
+        "publish_date": 1707894000000,
+        "ObjectId": 27
       }
     },
     {
@@ -359,8 +370,8 @@
         "total_covid_tests": 1653,
         "week_positivity": 0.097,
         "week_start_date": 1690696800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 27
+        "publish_date": 1707894000000,
+        "ObjectId": 28
       }
     },
     {
@@ -370,8 +381,8 @@
         "total_covid_tests": 1545,
         "week_positivity": 0.092,
         "week_start_date": 1690092000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 28
+        "publish_date": 1707894000000,
+        "ObjectId": 29
       }
     },
     {
@@ -381,8 +392,8 @@
         "total_covid_tests": 1212,
         "week_positivity": 0.069,
         "week_start_date": 1689487200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 29
+        "publish_date": 1707894000000,
+        "ObjectId": 30
       }
     },
     {
@@ -392,8 +403,8 @@
         "total_covid_tests": 1585,
         "week_positivity": 0.095,
         "week_start_date": 1688882400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 30
+        "publish_date": 1707894000000,
+        "ObjectId": 31
       }
     },
     {
@@ -403,8 +414,8 @@
         "total_covid_tests": 1705,
         "week_positivity": 0.056,
         "week_start_date": 1688277600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 31
+        "publish_date": 1707894000000,
+        "ObjectId": 32
       }
     },
     {
@@ -414,8 +425,8 @@
         "total_covid_tests": 1590,
         "week_positivity": 0.06,
         "week_start_date": 1687672800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 32
+        "publish_date": 1707894000000,
+        "ObjectId": 33
       }
     },
     {
@@ -425,8 +436,8 @@
         "total_covid_tests": 1785,
         "week_positivity": 0.052,
         "week_start_date": 1687068000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 33
+        "publish_date": 1707894000000,
+        "ObjectId": 34
       }
     },
     {
@@ -436,8 +447,8 @@
         "total_covid_tests": 1904,
         "week_positivity": 0.039,
         "week_start_date": 1686463200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 34
+        "publish_date": 1707894000000,
+        "ObjectId": 35
       }
     },
     {
@@ -447,8 +458,8 @@
         "total_covid_tests": 2191,
         "week_positivity": 0.05,
         "week_start_date": 1685858400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 35
+        "publish_date": 1707894000000,
+        "ObjectId": 36
       }
     },
     {
@@ -458,8 +469,8 @@
         "total_covid_tests": 1792,
         "week_positivity": 0.042,
         "week_start_date": 1685253600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 36
+        "publish_date": 1707894000000,
+        "ObjectId": 37
       }
     },
     {
@@ -469,8 +480,8 @@
         "total_covid_tests": 2537,
         "week_positivity": 0.057,
         "week_start_date": 1684648800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 37
+        "publish_date": 1707894000000,
+        "ObjectId": 38
       }
     },
     {
@@ -480,8 +491,8 @@
         "total_covid_tests": 2339,
         "week_positivity": 0.062,
         "week_start_date": 1684044000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 38
+        "publish_date": 1707894000000,
+        "ObjectId": 39
       }
     },
     {
@@ -491,8 +502,8 @@
         "total_covid_tests": 2904,
         "week_positivity": 0.064,
         "week_start_date": 1683439200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 39
+        "publish_date": 1707894000000,
+        "ObjectId": 40
       }
     },
     {
@@ -502,8 +513,8 @@
         "total_covid_tests": 3163,
         "week_positivity": 0.075,
         "week_start_date": 1682834400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 40
+        "publish_date": 1707894000000,
+        "ObjectId": 41
       }
     },
     {
@@ -513,8 +524,8 @@
         "total_covid_tests": 3435,
         "week_positivity": 0.071,
         "week_start_date": 1682229600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 41
+        "publish_date": 1707894000000,
+        "ObjectId": 42
       }
     },
     {
@@ -524,8 +535,8 @@
         "total_covid_tests": 3936,
         "week_positivity": 0.069,
         "week_start_date": 1681624800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 42
+        "publish_date": 1707894000000,
+        "ObjectId": 43
       }
     },
     {
@@ -535,8 +546,8 @@
         "total_covid_tests": 4163,
         "week_positivity": 0.081,
         "week_start_date": 1681020000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 43
+        "publish_date": 1707894000000,
+        "ObjectId": 44
       }
     },
     {
@@ -546,8 +557,8 @@
         "total_covid_tests": 4829,
         "week_positivity": 0.078,
         "week_start_date": 1680415200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 44
+        "publish_date": 1707894000000,
+        "ObjectId": 45
       }
     },
     {
@@ -557,8 +568,8 @@
         "total_covid_tests": 5237,
         "week_positivity": 0.082,
         "week_start_date": 1679810400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 45
+        "publish_date": 1707894000000,
+        "ObjectId": 46
       }
     },
     {
@@ -568,8 +579,8 @@
         "total_covid_tests": 6284,
         "week_positivity": 0.093,
         "week_start_date": 1679205600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 46
+        "publish_date": 1707894000000,
+        "ObjectId": 47
       }
     },
     {
@@ -579,8 +590,8 @@
         "total_covid_tests": 4794,
         "week_positivity": 0.071,
         "week_start_date": 1678604400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 47
+        "publish_date": 1707894000000,
+        "ObjectId": 48
       }
     },
     {
@@ -590,8 +601,8 @@
         "total_covid_tests": 6056,
         "week_positivity": 0.102,
         "week_start_date": 1677999600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 48
+        "publish_date": 1707894000000,
+        "ObjectId": 49
       }
     },
     {
@@ -601,8 +612,8 @@
         "total_covid_tests": 6280,
         "week_positivity": 0.098,
         "week_start_date": 1677394800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 49
+        "publish_date": 1707894000000,
+        "ObjectId": 50
       }
     },
     {
@@ -612,8 +623,8 @@
         "total_covid_tests": 5755,
         "week_positivity": 0.11,
         "week_start_date": 1676790000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 50
+        "publish_date": 1707894000000,
+        "ObjectId": 51
       }
     },
     {
@@ -623,8 +634,8 @@
         "total_covid_tests": 4668,
         "week_positivity": 0.083,
         "week_start_date": 1676185200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 51
+        "publish_date": 1707894000000,
+        "ObjectId": 52
       }
     },
     {
@@ -634,8 +645,8 @@
         "total_covid_tests": 4469,
         "week_positivity": 0.092,
         "week_start_date": 1675580400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 52
+        "publish_date": 1707894000000,
+        "ObjectId": 53
       }
     },
     {
@@ -645,8 +656,8 @@
         "total_covid_tests": 4016,
         "week_positivity": 0.081,
         "week_start_date": 1674975600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 53
+        "publish_date": 1707894000000,
+        "ObjectId": 54
       }
     },
     {
@@ -656,8 +667,8 @@
         "total_covid_tests": 4207,
         "week_positivity": 0.078,
         "week_start_date": 1674370800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 54
+        "publish_date": 1707894000000,
+        "ObjectId": 55
       }
     },
     {
@@ -667,8 +678,8 @@
         "total_covid_tests": 4329,
         "week_positivity": 0.085,
         "week_start_date": 1673766000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 55
+        "publish_date": 1707894000000,
+        "ObjectId": 56
       }
     },
     {
@@ -678,8 +689,8 @@
         "total_covid_tests": 4725,
         "week_positivity": 0.07,
         "week_start_date": 1673161200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 56
+        "publish_date": 1707894000000,
+        "ObjectId": 57
       }
     },
     {
@@ -689,8 +700,8 @@
         "total_covid_tests": 5563,
         "week_positivity": 0.086,
         "week_start_date": 1672556400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 57
+        "publish_date": 1707894000000,
+        "ObjectId": 58
       }
     },
     {
@@ -700,8 +711,8 @@
         "total_covid_tests": 6974,
         "week_positivity": 0.082,
         "week_start_date": 1671951600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 58
+        "publish_date": 1707894000000,
+        "ObjectId": 59
       }
     },
     {
@@ -711,8 +722,8 @@
         "total_covid_tests": 7047,
         "week_positivity": 0.089,
         "week_start_date": 1671346800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 59
+        "publish_date": 1707894000000,
+        "ObjectId": 60
       }
     },
     {
@@ -722,8 +733,8 @@
         "total_covid_tests": 8266,
         "week_positivity": 0.099,
         "week_start_date": 1670742000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 60
+        "publish_date": 1707894000000,
+        "ObjectId": 61
       }
     },
     {
@@ -733,8 +744,8 @@
         "total_covid_tests": 8408,
         "week_positivity": 0.113,
         "week_start_date": 1670137200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 61
+        "publish_date": 1707894000000,
+        "ObjectId": 62
       }
     },
     {
@@ -744,8 +755,8 @@
         "total_covid_tests": 8612,
         "week_positivity": 0.126,
         "week_start_date": 1669532400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 62
+        "publish_date": 1707894000000,
+        "ObjectId": 63
       }
     },
     {
@@ -755,8 +766,8 @@
         "total_covid_tests": 7936,
         "week_positivity": 0.139,
         "week_start_date": 1668927600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 63
+        "publish_date": 1707894000000,
+        "ObjectId": 64
       }
     },
     {
@@ -766,8 +777,8 @@
         "total_covid_tests": 7995,
         "week_positivity": 0.138,
         "week_start_date": 1668322800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 64
+        "publish_date": 1707894000000,
+        "ObjectId": 65
       }
     },
     {
@@ -777,8 +788,8 @@
         "total_covid_tests": 7374,
         "week_positivity": 0.14,
         "week_start_date": 1667714400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 65
+        "publish_date": 1707894000000,
+        "ObjectId": 66
       }
     },
     {
@@ -788,8 +799,8 @@
         "total_covid_tests": 6207,
         "week_positivity": 0.135,
         "week_start_date": 1667109600000,
-        "publish_date": 1707289200000,
-        "ObjectId": 66
+        "publish_date": 1707894000000,
+        "ObjectId": 67
       }
     },
     {
@@ -799,8 +810,8 @@
         "total_covid_tests": 5565,
         "week_positivity": 0.119,
         "week_start_date": 1666504800000,
-        "publish_date": 1707289200000,
-        "ObjectId": 67
+        "publish_date": 1707894000000,
+        "ObjectId": 68
       }
     },
     {
@@ -810,8 +821,8 @@
         "total_covid_tests": 5327,
         "week_positivity": 0.12,
         "week_start_date": 1665900000000,
-        "publish_date": 1707289200000,
-        "ObjectId": 68
+        "publish_date": 1707894000000,
+        "ObjectId": 69
       }
     },
     {
@@ -821,8 +832,8 @@
         "total_covid_tests": 5097,
         "week_positivity": 0.105,
         "week_start_date": 1665295200000,
-        "publish_date": 1707289200000,
-        "ObjectId": 69
+        "publish_date": 1707894000000,
+        "ObjectId": 70
       }
     },
     {
@@ -832,8 +843,8 @@
         "total_covid_tests": 4659,
         "week_positivity": 0.105,
         "week_start_date": 1664690400000,
-        "publish_date": 1707289200000,
-        "ObjectId": 70
+        "publish_date": 1707894000000,
+        "ObjectId": 71
       }
     }
   ]
