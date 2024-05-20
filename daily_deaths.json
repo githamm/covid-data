@@ -1,9 +1,7 @@
 {
-  "objectIdFieldName": "ObjectId",
-  "uniqueIdField": {
-    "name": "ObjectId",
-    "isSystemMaintained": true
-  },
-  "globalIdFieldName": "",
-  "features": []
+  "error": {
+    "code": 503,
+    "message": "An error occurred.",
+    "details": []
+  }
 }
