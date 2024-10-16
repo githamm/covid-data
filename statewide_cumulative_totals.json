@@ -1,9 +1,10 @@
 {
-  "objectIdFieldName": "ObjectId",
-  "uniqueIdField": {
-    "name": "ObjectId",
-    "isSystemMaintained": true
-  },
-  "globalIdFieldName": "",
-  "features": []
+  "error": {
+    "code": 499,
+    "message": "Token Required",
+    "messageCode": "GWM_0003",
+    "details": [
+      "Token Required"
+    ]
+  }
 }
